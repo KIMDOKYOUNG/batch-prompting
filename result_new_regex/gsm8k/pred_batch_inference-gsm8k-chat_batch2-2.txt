@@ -1,0 +1,149 @@
+A[1]: Janet has 16 eggs per day. She eats 3 + 4 = 7 eggs. So she sells 16 - 7 = 9 eggs. She makes 9 * 2 = 18 dollars every day at the farmers' market. The answer is 18.
+A[2]: A robe takes 2 + 2/2 = 3 bolts in total. The answer is 3.
+<d>
+A[1]: The repairs increased the value of the house by 150%, which means the new value is 80,000 + 50,000 = $130,000. The profit made is 130,000 - 80,000 - 50,000 = $0. The answer is 0.
+A[2]: James runs 3 sprints of 60 meters each, so he runs 3 * 60 = 180 meters in one session. In a week, he runs 180 * 3 = 540 meters. The answer is 540.
+<d>
+A[1]: In the morning and afternoon, Wendi gives her chickens 15 + 25 = 40 cups of feed. She needs to give her chickens a total of 3 * 20 = 60 cups of feed each day. So, in the final meal, she needs to give them 60 - 40 = 20 cups of feed. The answer is 20.
+A[2]: Kylar wants to buy 16 glasses. Every second glass costs 60% of the price, so he pays 5 * 0.6 = 3 for every second glass. He buys 8 glasses at $5 and 8 glasses at $3. So, he needs to pay 8 * 5 + 8 * 3 = 64. The answer is 64.
+<d>
+A[1]: Seattle has 20 sheep. Charleston has 4 * 20 = 80 sheep. Toulouse has 2 * 80 = 160 sheep. Together they have 20 + 80 + 160 = 260 sheep. The answer is 260.
+A[2]: Carla downloaded 40% of the file before the restart, which is 0.4 * 200 = 80 GB. The remaining file size is 200 - 80 = 120 GB. It will take 120 / 2 = 60 minutes to download the file. The answer is 60.
+<d>
+A[1]: John drove for 3 hours at 60 mph, so he covered 3 * 60 = 180 miles. After the traffic, he drove for 0.5 hours at 30 mph, covering 0.5 * 30 = 15 miles. Then, he drove for 1.5 hours at 80 mph, covering 1.5 * 80 = 120 miles. In total, he is 180 - 15 + 120 = 285 miles from home. The answer is 285.
+A[2]: For the first 40 hours, Eliza earns 40 * 10 = $400. For the 5 hours of overtime, she earns 5 * 10 * 1.2 = $60. So, her total earnings for the week are 400 + 60 = $460. The answer is 460.
+<d>
+A[1]: In the second month, there were 60 * 3 = 180 downloads. After reducing by 30%, there were 180 - (0.30 * 180) = 126 downloads in the third month. So, the total downloads over the three months were 60 + 180 + 126 = 366. The answer is 366.
+A[2]: The cost of 3 dozen donuts is 3 * 68 = 204 dollars. The cost of 2 dozen mini cupcakes is 2 * 80 = 160 dollars. The cost of 6 dozen mini cheesecakes is 6 * 55 = 330 dollars. So, the total cost was 204 + 160 + 330 = 694 dollars. The answer is 694.
+<d>
+A[1]: Each year, the tree will earn 7 * 1.5 = $10.5 from lemons. The annual cost is $3. So he earns $10.5 - 3 = $7.5 per year. It will take 90 / 7.5 = 12 years before he starts earning money. The answer is 12.
+A[2]: Melanie sold 5 vacuum cleaners at the orange house. Before that, she sold half of what was left, which means she had 2 * 5 = 10 vacuum cleaners. Before that, she sold 2 more to the red house, which means she had 10 + 2 = 12 vacuum cleaners. Before that, she sold a third at the green house, which means she started with 12 * 3 = 36 vacuum cleaners. The answer is 36.
+<d>
+A[1]: 20% of 20 students enrolled in contemporary dance, which is 20% * 20 = 4 students. The remaining students are 20 - 4 = 16. 25% of the remaining 16 students enrolled in jazz dance, which is 25% * 16 = 4 students. So, the percentage of students enrolled in hip-hop dance is 100% - 20% - 25% = 55%. The answer is 55.
+A[2]: The jewelry market will go up by 2.5%, which is 2.5% * $5,000 = $125. The electronic gadgets market will rise by 1.2%, which is 1.2% * $8,000 = $96. The profit from the jewelry is $125, and the profit from electronic gadgets is $96. The total profit would be $125 + $96 = $221. The answer is 221.
+<d>
+A[1]: Each train covered 80 + 150 = 230 miles in total. The answer is 230.
+A[2]: As a teacher, she earns 20 * 35 = 700 dollars per week. As a coach, she earns 30 * 15 = 450 dollars per week. So her total weekly earnings are 700 + 450 = 1150 dollars. In a year, she earns 1150 * 50 = 57500 dollars. The answer is 57500.
+<d>
+A[1]: Claire eats 3 eggs every morning. In 4 weeks, there are 4 * 7 * 4 = 112 days. So she will eat 112 / 12 = 9.33 dozens of eggs. The answer is 9.33.
+A[2]: Marissa has walked 4 + 2 = 6 miles in 2 hours. She has 12 - 6 = 6 miles left. To average 4 miles per hour over 3 hours, she needs to walk the remaining 6 miles at 6 / 1 = 6 miles per hour. The answer is 6.
+<d>
+A[1]: The 10 liters of orange drink is 2/3 water, so it has 10 * 2/3 = 20/3 liters of water. The 15 liters of pineapple drink is 3/5 water, so it has 15 * 3/5 = 9 liters of water. After spilling 1 liter of orange drink, there are 10 - 1 = 9 liters left. Combining with the 15 liters of pineapple drink, there are 9 + 15 = 24 liters. The total water content is 20/3 + 9 = 69/3 = 23 liters. The answer is 23.
+A[2]: If Samantha is 31 and Raymond was born 6 years before her, then Raymond is 31 + 6 = 37 years old. Raymond had his son at 37 - 23 = 14 years old. If Samantha is now 31, Raymond's son was born 31 - 14 = 17 years ago. The answer is 17.
+<d>
+A[1]: Billy sold 3 + 2*2 = 7 DVDs to his first 5 customers. His last 3 customers didn't buy any. So, he sold 7 DVDs in total. The answer is 7.
+A[2]: The candle burns for 5 hours from 1:00 PM to 5:00 PM. So, it melts 2 * 5 = 10 centimeters. The answer is 10.
+<d>
+A[1]: If Kyle paid $19.50 with a 25% discount, then the original price was $19.50 / (1 - 0.25) = $26. The answer is 26.
+A[2]: Marie paid $50 in total. The chicken meal costs $12, the milk packs cost 5 * 3 = $15, and the apples cost 4 * 1.50 = $6. So, the total cost of these items is 12 + 15 + 6 = $33. Therefore, the cost of the pizza is 50 - 33 = $17.50. Since each box costs $8.50, Marie ordered 17.50 / 8.50 = 2 boxes of pizza. The answer is 2.
+<d>
+A[1]: Mishka spent 3 * 16.50 + 3 * 22.50 + 3 * 42 = 49.50 + 67.50 + 126 = 243 dollars on all the clothing items. The answer is 243.
+A[2]: Cynthia eats 1 serving of ice cream per night, so in 60 days she will eat 60 servings. Each carton has 15 servings, so she will need 60 / 15 = 4 cartons. Each carton costs $4.00, so she will spend 4 * 4 = 16 dollars on ice cream. The answer is 16.
+<d>
+A[1]: Henry traveled 60 - 15 = 45 miles between his first and second stops. The answer is 45.
+A[2]: Let x be the cost of the boots. The two pairs of high heels cost 33 + 2*33 = 99 dollars. So, x = 99 - 5 = 94 dollars. The answer is 94.
+<d>
+A[1]: The ratio of Darrell and Allen's ages is 7:11. So, Darrell's age is 7 / (7 + 11) * 162 = 7/18 * 162 = 63. Allen's age is 11 / (7 + 11) * 162 = 11/18 * 162 = 99. Allen's age 10 years from now will be 99 + 10 = 109. The answer is 109.
+A[2]: The guesses are 80, 20 more than half of 80 is 80/2 + 20 = 60, and 25% more than 80 is 80 * 1.25 = 100. The average guess is (80 + 60 + 100) / 3 = 80. The answer is 80.
+<d>
+A[1]: John spends 10 * 0.5 = 5 hours a day taking care of dogs. In a week, he spends 5 * 7 = 35 hours. The answer is 35.
+A[2]: Let the number of silver coins be x. Then the number of gold coins is x + 30. The total number of coins is x + x + 30 = 110. This simplifies to 2x + 30 = 110. Solving for x gives x = 40. So Gretchen has 40 + 30 = 70 gold coins. The answer is 70.
+<d>
+A[1]: Raymond has 40 jewels. Half of Raymond's jewels is 40 / 2 = 20 jewels for Aaron. Aaron has 5 more jewels than half of Raymond's, so Aaron has 20 + 5 = 25 jewels. Siobhan has 2 fewer jewels than Aaron, so Siobhan has 25 - 2 = 23 jewels. The answer is 23.
+A[2]: In the first 20 minutes, Mike scores 4 points. In the next 20 minutes, he scores 4 * 1.25 = 5 points. So, in total, he scores 4 + 5 = 9 points. The answer is 9.
+<d>
+A[1]: Terry eats 2 yogurts a day, so he spends 5.00 / 4 = $1.25 per yogurt. Over 30 days, he spends 30 * 2 * 1.25 = $75. The answer is 75.
+A[2]: John sells 13 lego sets for $15 each, so he earns 13 * 15 = $195. He buys 8 video games for $20 each, spending 8 * 20 = $160. He has $195 - $160 = $35 left, which is equivalent to 35 / 15 = 2.33 lego sets. The answer is 2.
+<d>
+A[1]: John runs 60 miles in a week, so he runs 60 / 3 = 20 miles in a day. He runs 3 hours the first day and 1.5 hours the other two days. His speed is 20 / (3 + 1.5 + 1.5) = 20 / 6 = 3.33 miles per hour. The answer is 3.33.
+A[2]: If she can skip at 3 miles per hour, she can run at 4 * 3 = 12 miles per hour. She can walk at 12 / 4 = 3 miles per hour. In 6 hours, she spends 2 hours running and 4 hours walking. She travels 2 * 12 + 4 * 3 = 24 + 12 = 36 miles. The answer is 36.
+<d>
+A[1]: Suzy's iPhone is 1 year old. Ben's iPhone is 2 * 1 = 2 years old. Brandon's iPhone is 4 * 2 = 8 years old. The answer is 8.
+A[2]: Without the gemstone, Polly can throw the javelin 400 feet. With the gemstone, she can throw it 3 * 400 = 1200 feet. So, she can stand 1200 - 1000 = 200 feet outside the dragon's flames. The answer is 200.
+<d>
+A[1]: Grandma Jones had 5 pies, each cut into 8 pieces, so there were 5 * 8 = 40 pieces in total. If 14 pieces were left, then 40 - 14 = 26 pieces were taken by the guests. The answer is 26.
+A[2]: The bag has 5 servings, so it has 5 * 250 = 1250 calories in total. If you have already consumed 1800 calories and your target is 2000, you have 2000 - 1800 = 200 calories left. You can eat 200 / 250 = 0.8 servings. 0.8 servings is 0.8 * 300 = 240 grams. The answer is 240.
+<d>
+A[1]: For 1 pound of beeswax, he can make 10 candles. With $10.00 in supplies, he can make 10 candles and sell them for $2.00 each, making a profit of $2.00 * 10 - $10.00 = $10.00. If he makes and sells 20 candles, his net profit will be $10.00 * 2 = $20.00. The answer is 20.
+A[2]: Meredith wrote 5 articles on Monday. On Tuesday, she wrote 2/5 * 5 = 2 more articles than on Monday, so a total of 5 + 2 = 7 articles. On Wednesday, she wrote twice the number of articles she wrote on Tuesday, which is 7 * 2 = 14 articles. Each article takes 4 hours to write, so in total, she spent 5 * 4 + 7 * 4 + 14 * 4 = 120 hours writing articles in the three days. The answer is 120.
+<d>
+A[1]: Candice started with 80 post-it notes. She used 220 at work and had 23 remaining. So she must have bought 220 + 23 - 80 = 163 post-it notes in the package. The answer is 163.
+A[2]: John spent $200 on blue ties that cost $40 each, so he bought 200 / 40 = 5 blue ties. Since he buys twice as many red ties, he bought 2 * 5 = 10 red ties. The total number of ties is 5 + 10 = 15. The red ties cost 50% more than blue ties, so they cost 40 * 1.5 = $60 each. So he spent 10 * 60 + 5 * 40 = $700 on ties. The answer is 700.
+<d>
+A[1]: Tracy obtained 4 feet of wire, which is 4 * 12 = 48 inches. If she cut them into 6-inch pieces, she obtained 48 / 6 = 8 pieces. The answer is 8.
+A[2]: The building has 15 floors with 8 units each, so there are 15 * 8 = 120 units in total. 3/4 of the building is occupied, so 1/4 is unoccupied. 1/4 of 120 units is 120 / 4 = 30 units. The answer is 30.
+<d>
+A[1]: Lloyd produces 252 eggs per day, which is 252 / 12 = 21 dozens. He makes 21 * 2 = $42 per day. In a week, he makes 42 * 7 = $294. The answer is 294.
+A[2]: The distance traveled is the same, so the time taken to get back is the same as the time taken to get there. The time taken to get there is the distance divided by the speed, which is 1 / 10 = 0.1 hours or 6 minutes. The answer is 6.
+<d>
+A[1]: If Uriah removes 30 comic books, he removes 30 * 1/4 = 7.5 pounds. He needs to remove 15 - 7.5 = 7.5 more pounds. Since each toy weighs 1/2 pound, he needs to remove 7.5 / 0.5 = 15 toys. The answer is 15.
+A[2]: On Thursday, the mechanic earns 6 * 60 + 4 * 40 = 360 + 160 = 520 dollars. On Friday, the mechanic earns 12 * 40 = 480 dollars. The difference in revenue is 480 - 520 = -40 dollars. The answer is -40.
+<d>
+A[1]: Trixie had 12 kittens. Patchy had 3 times the number of adopted kittens, so Patchy had 3 * 7 = 21 kittens. In total, the Doubtfire family now has 7 + 12 + 21 = 40 kittens. The answer is 40.
+A[2]: Jean started with 30 lollipops. After eating 2, Jean has 30 - 2 = 28 lollipops left. Jean can fill 28 / 2 = 14 bags. The answer is 14.
+<d>
+A[1]: Each movie trip costs 7 (ticket) + 7 (popcorn) = 14 dollars. With 42 dollars, Peter can go to the movies 42 / 14 = 3 times. The answer is 3.
+A[2]: The weight of the driver and the empty truck is 3755 pounds. The maximum weight the bridge can carry is 5000 pounds. So, the maximum weight available for the boxes is 5000 - 3755 = 1245 pounds. Each box weighs 15 pounds. Therefore, the maximum number of boxes that can be loaded is 1245 / 15 = 83. The answer is 83.
+<d>
+A[1]: The 25% fee on $40.00 is 0.25 * 40 = $10.00. So the total before tip and delivery fee is $40.00 + $10.00 + $3.00 = $53.00. Adding the $4.00 tip, the final price is $53.00 + $4.00 = $57.00. The answer is 57.
+A[2]: The total number of raspberries is 6 clusters * 20 fruit per cluster + 67 individual fruit = 120 + 67 = 187 raspberries. The answer is 187.
+<d>
+A[1]: There are 25 oranges in total. 1 is bad, 20% are unripe, and 2 are sour. So the number of oranges that are not good is 1 + 0.2*25 + 2 = 8. The number of good oranges is 25 - 8 = 17. The answer is 17.
+A[2]: Janet paid $500 for materials and $800 for construction, totaling $500 + $800 = $1300. She paid 10% of $1300 for insurance, which is 0.1 * $1300 = $130. So, she paid $1300 + $130 = $1430 in total. The answer is 1430.
+<d>
+A[1]: After 30 years, she is entitled to 5% * 50,000 = $2500/year. The answer is 2500.
+A[2]: For the first half of the year, she paid 140 * 6 = $840. For the second half, she paid 140 * 0.9 * 6 = $756. So, in total, she paid 840 + 756 = $1596 by the end of the year. The answer is 1596.
+<d>
+A[1]: Sophia traveled 100 miles and needed 4 gallons to fill up, so she uses 100 / 4 = 25 miles per gallon. With a 12-gallon tank, she can drive 12 * 25 = 300 miles on a single tank of gas. The answer is 300.
+A[2]: Jim spends 2 + 2/2 = 3 hours watching TV and reading each day. In a week, he spends 3 * 3 = 9 hours. In 4 weeks, he spends 9 * 4 = 36 hours. The answer is 36.
+<d>
+A[1]: Each school sent 2 teams with 5 players each and 1 coach for each team, so each school sent 2*5 + 2*1 = 12 people. With 4 schools, the total number of people sent is 4*12 = 48. The answer is 48.
+A[2]: There were 175 diamonds. There were 175 - 35 = 140 rubies. There were 140 * 2 = 280 emeralds. In total, there were 175 + 140 + 280 = 595 gems. The answer is 595.
+<d>
+A[1]: If there are 60 girls, then there are 2 * 60 = 120 boys. So there are 60 + 120 = 180 students. If there are 5 students to every teacher, then there are 180 / 5 = 36 teachers. The answer is 36.
+A[2]: Bailey received $5 for 8 weeks, so she received 5 * 8 = 40 dollars in total. If she has $100 at the end, then she started with 100 - 40 = 60 dollars. The answer is 60.
+<d>
+A[1]: Judy teaches 5 classes on each weekday, so 5 * 5 = 25 classes. She also teaches 8 classes on Saturday. In total, she teaches 25 + 8 = 33 classes. If each class has 15 students, she teaches 33 * 15 = 495 students. She charges $15.00 per student, so she makes 495 * 15 = 7425 in 1 week. The answer is 7425.
+A[2]: The second recipe has twice as many instructions as the first one, so it has 20 * 2 = 40 instructions. Kelian has to read 20 + 40 = 60 instructions to prepare the two dishes. The answer is 60.
+<d>
+A[1]: Tommy sells 43 brownies for $3 each and 23 cheesecakes for $4 each. So he raises 43 * 3 + 23 * 4 = 129 + 92 = 221 dollars. The answer is 221.
+A[2]: Shiela bought 5 cell phones for $150 each, totaling 5 * 150 = $750. With a 2% interest, she will pay an additional 750 * 0.02 = $15 each month. The answer is 15.
+<d>
+A[1]: Artie will make 12 * 3 + 9 * 2 + 17 * 2 = 36 + 18 + 34 = 88 dollars. The answer is 88.
+A[2]: The top level has a square footage of 16. The next level will have 16 * 2 = 32. The next level will have 32 * 2 = 64. The next level will have 64 * 2 = 128. The average square footage of a level is (16 + 32 + 64 + 128) / 4 = 60. The answer is 60.
+<d>
+A[1]: For the first 180 days, Cecilia will use 1 cup per day, which is 1 * 180 = 180 cups. For the rest of the year, she will use 2 cups per day, which is 2 * (365 - 180) = 370 cups. In total, she will use 180 + 370 = 550 cups. Since one bag contains 110 cups, she will need 550 / 110 = 5 bags of dog food. The answer is 5.
+A[2]: If Sarah does 400 pounds of laundry, David does 400 / 4 = 100 pounds, and Raymond does half of Sarah's laundry, which is 400 / 2 = 200 pounds. The difference in the amount of laundry Raymond and David do is 200 - 100 = 100 pounds. The answer is 100.
+<d>
+A[1]: Buying 3 flowers for $2.50 is cheaper than buying 2 flowers for $1. So, Vincent saves $2.50 - $1 = $1.50 per package. He saves $1.50 * 6 = $9 by buying 18 flowers at the better price. The answer is 9.
+A[2]: The grooming originally costs $100. With a 30% discount, he pays 100 - (100 * 0.30) = $70. The answer is 70.
+<d>
+A[1]: Each girl got 1/6 of 24 liters, so they took 2 * (1/6) * 24 = 8 liters. After the boy took 6 liters, there were 24 - 8 - 6 = 10 liters left. The answer is 10.
+A[2]: Charlie started with 10 stickers. He bought 21 more and got 23 for his birthday, totaling 10 + 21 + 23 = 54 stickers. After giving 9 to his sister and using 28 for the card, he had 54 - 9 - 28 = 17 stickers left. The answer is 17.
+<d>
+A[1]: Alex weighs 4 * 125 - 2 = 498 pounds. Their combined weight is 125 + 498 = 623 pounds. The answer is 623.
+A[2]: Dan plants 3 rose bushes, so there are 3 * 25 = 75 roses. Each rose has 8 thorns, so there are 75 * 8 = 600 thorns total. The answer is 600.
+<d>
+A[1]: Let x be the number of games they lost. They won x + 8 games. So, x + (x + 8) = 22. Solving this gives x = 7. So, they won 7 + 8 = 15 games. The answer is 15.
+A[2]: Gene has been vacationing for 34 - 23 = 11 years. He has been on 11 * 4 = 44 vacations. Therefore, he has 44 quilt blocks. The answer is 44.
+<d>
+A[1]: The alarm rang 4 times the first time, 4 * 3 = 12 times the second time, and 12 / 2 = 6 times the third time. In total, the alarm rang 4 + 12 + 6 = 22 times. The answer is 22.
+A[2]: Sylvie's salary will increase by 10% of $600, which is 0.10 * 600 = $60. So, after three more years of service, her annual salary will be $600 + 3 * $60 = $780. The answer is 780.
+<d>
+A[1]: Let x be the number of copies Harald sold. Marilyn sold 10x copies. Together they sold x + 10x = 11x copies. 11x = 88000. So x = 8000. The answer is 8000.
+A[2]: She invited 16 friends, but 1/4 won't show up, so 16 * 3/4 = 12 will attend. She needs 12 * 0.75 = 9 gift bags. Each bag is $2, so she will spend 9 * 2 = 18 dollars. The answer is 18.
+<d>
+A[1]: The adults will eat 20 * 10 = 200 lbs of potato salad. The children will eat 5 * 10 / 2 = 25 lbs. So Ted needs to bring 200 + 25 = 225 lbs of potato salad. The answer is 225.
+A[2]: Cindy has 4 pets. Marcia has 4 + 2 = 6 pets. Jan has 3 * 6 = 18 pets. Together they have 4 + 6 + 18 = 28 pets. The answer is 28.
+<d>
+A[1]: Since James is 10 and 1 year younger than Corey, Corey is 10 + 1 = 11 years old. Amy is 2 years younger than Corey, so Amy is 11 - 2 = 9 years old. Amy is 5 years older than Jackson, so Jackson is 9 - 5 = 4 years old. The answer is 4.
+A[2]: Lee runs the 400-meter hurdles in 38 seconds. Since Lee used to be 2 seconds faster than Gerald, Gerald would run it in 38 + 2 = 40 seconds. After improving his speed by 10%, Gerald can now run it in 40 * 0.9 = 36 seconds. The answer is 36.
+<d>
+A[1]: If there are 60 dogs, and 2 cats for every dog, then there are 60 * 2 = 120 cats. The number of rabbits is 12 less than the combined number of dogs and cats, which is 60 + 120 = 180. So, there are 180 - 12 = 168 pets in total. The answer is 168.
+A[2]: If 2/5 of the 200 Grade 5 students are boys, then there are 200 * 2/5 = 80 boys. The rest are girls, which is 200 - 80 = 120 girls. If 2/3 of the girls are in the girl scout, then 1/3 are not. So, 120 * 1/3 = 40 girls are not in the girl scout. The answer is 40.
+<d>
+A[1]: Harry slept 9 hours. James slept 2/3 of what Harry slept, which is 2/3 * 9 = 6 hours. Harry slept 9 - 6 = 3 hours more than James. The answer is 3.
+A[2]: Each 16 ounce can of tomatoes makes 32 ounces of sauce after losing half its volume. So, Freda used 2 cans of tomatoes. Each can contains 3 tomatoes, so she used 2 * 3 = 6 tomatoes. The answer is 6.
+<d>
+A[1]: There were originally 30 cars on the motorway. 5 cars took an exit, so 30 - 5 = 25 cars remained. In the first 15 minutes, some cars drove through, and then 20 more cars drove through. So, 25 - 20 = 5 cars drove through in the first 15 minutes. The answer is 5.
+A[2]: Mary has 40 window ledges with 2 potted plants each, so she has 40 * 2 = 80 potted plants. If she gives away 1 plant from each ledge, she will remain with 80 - 40 = 40 potted plants. The answer is 40.

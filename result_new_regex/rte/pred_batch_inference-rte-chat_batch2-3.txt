@@ -1,0 +1,149 @@
+Answer[1]: Dana Reeve, the widow of Christopher Reeve, died of lung cancer, not due to an accident, which contradicts the hypothesis. So the answer is False.
+Answer[2]: Disease-causing bacteria are mutating faster than new antibiotics can be developed, indicating that bacteria is winning the war against antibiotics. So the answer is True.
+<d>
+Answer[1]: The premise states that approximately 10,000 tonnes of rubbish are produced daily in Cairo, not 15 million tonnes, which contradicts the hypothesis. So the answer is False.
+Answer[2]: The premise mentions that the Amish community in Pennsylvania numbers about 55,000, not that it is the biggest in the U.S., which contradicts the hypothesis. So the answer is False.
+<d>
+Answer[1]: Security forces were on high alert after an election campaign marred by violence. So the answer is True.
+Answer[2]: The Israel-Egypt Peace Agreement was signed in 1979, as mentioned in the premise. So the answer is True.
+<d>
+Answer[1]: Britney Spears filled papers to divorce Kevin Federline. So the answer is True.
+Answer[2]: Wales has successfully bid to bring the 2010 Ryder Cup, i.e., Wales will host the 2010 Ryder Cup. So the answer is True.
+<d>
+Answer[1]: Steve Jobs resigned from Apple, which implies he worked for Apple. So the answer is True.
+Answer[2]: The Raisani tribe is living in present-day Balochistan in Pakistan. So the answer is True.
+<d>
+Answer[1]: The premise states that Doctors Without Borders/Medecins Sans Frontieres (MSF) is an international humanitarian aid organization. So the answer is True.
+Answer[2]: The premise mentions whisking together eggs and sugar, not vanilla, which contradicts the hypothesis. So the answer is False.
+<d>
+Answer[1]: Over 2.7 million people in Nigeria are infected with HIV, not 2.7 percent of the people infected with HIV live in Africa, which contradicts the hypothesis. So the answer is False.
+Answer[2]: Jack Kevorkian is famed as "Dr. Death," not his real name, which contradicts the hypothesis. So the answer is False.
+<d>
+Answer[1]: Procter and Gamble has a $1.8 billion Research and Development budget. So the answer is True.
+Answer[2]: Deceased U.S. soldiers were evacuated, not U.S. citizens, which contradicts the hypothesis. So the answer is False.
+<d>
+Answer[1]: Mice given a substance found in red wine lived longer despite a fatty diet. So the answer is True.
+Answer[2]: Charles de Gaulle died in 1970, as stated in the premise. So the answer is True.
+<d>
+Answer[1]: France participated in Euro 2004. So the answer is True.
+Answer[2]: There is no mention of President Fujimori being re-elected in 1995, which contradicts the hypothesis. So the answer is False.
+<d>
+Answer[1]: Hepburn's brooch sold for $120,000. So the answer is True.
+Answer[2]: Huckaby is accused of killing Sandra Cantu, as indicated by the premises. So the answer is True.
+<d>
+Answer[1]: Eljvir Duka comes from Albania, as stated in the premise. So the answer is True.
+Answer[2]: "The Osbournes" is the name of a reality show starring Ozzy Osbourne, as mentioned in the premise. So the answer is True.
+<d>
+Answer[1]: The man collapsed at a protester camp close to the Bank of England, not Sky News offices. So the answer is False.
+Answer[2]: The San Diego Padres lost the game against the St. Louis Cardinals, which contradicts the hypothesis. So the answer is False.
+<d>
+Answer[1]: Unocal said its recommendation in favor of Chevron's offer remains in effect, not that it would evaluate the CNOOC offer, which contradicts the hypothesis. So the answer is False.
+Answer[2]: Fallujah and Baqubah are mentioned as Iraqi cities in the premise. So the answer is True.
+<d>
+Answer[1]: Huawei says obtaining visas for its Chinese engineers to work on long-term projects in India is not easy, which contradicts the hypothesis. So the answer is False.
+Answer[2]: A commuter flight crashed in Buffalo, as mentioned in the premise. So the answer is True.
+<d>
+Answer[1]: Some 3,000 inhabitants of Slovenia declared themselves as ethnic Italians, not that Slovenia has 3,000 inhabitants, which contradicts the hypothesis. So the answer is False.
+Answer[2]: Eric Harris and Dylan Klebold killed a teacher and 12 students, totaling 13 persons, which matches the hypothesis. So the answer is True.
+<d>
+Answer[1]: There is no mention of Simon Cowell falling in love with Susan Boyle. So the answer is False.
+Answer[2]: The new system introduced in 2001 replaced the old system of six-month compulsory quarantine for all domestic pets. So the answer is False.
+<d>
+Answer[1]: The 50th anniversary celebration of the first Normandy landing will spread out over a year. So the answer is True.
+Answer[2]: The Qin established the boundaries and administrative system, not Qin Shi Huang being the first Chinese Emperor, which contradicts the hypothesis. So the answer is False.
+<d>
+Answer[1]: Hands Across the Divide aimed for more freedom of contact and communication between the two parts of Cyprus in March 2001, not the division of Cyprus. So the answer is False.
+Answer[2]: The Winter Olympic Games took place in Nagano before Salt Lake City, which matches the hypothesis. So the answer is True.
+<d>
+Answer[1]: Amazon shares fell nearly 4 percent, which matches the hypothesis. So the answer is True.
+Answer[2]: The irregularities were in the campaigns of Atlanta, Sydney, and Salt Lake City, not Nagano, which contradicts the hypothesis. So the answer is False.
+<d>
+Answer[1]: A compound in breast milk may help fight cervical cancer. So the answer is True.
+Answer[2]: Mr Dean released the plan on behalf of the Secretary of Health and Human Services, Tommy Thompson, not being the Secretary himself, which contradicts the hypothesis. So the answer is False.
+<d>
+Answer[1]: Alice Cooper has been a born-again Christian for over 20 years and is setting up a Christian center for at-risk youths. So the answer is True.
+Answer[2]: Pibul Songgram was the pro-Japanese military dictator of Thailand during World War 2, i.e., he was the dictator of Thailand. So the answer is True.
+<d>
+Answer[1]: Armstrong was the first man to walk on the Moon. So the answer is True.
+Answer[2]: KTLK is located in Los Angeles, not San Francisco, which contradicts the hypothesis. So the answer is False.
+<d>
+Answer[1]: Russian cosmonaut Valery Polyakov set the record for the longest stay in space. So the answer is True.
+Answer[2]: The harvest of sea-weeds is not allowed in the Puget Sound, which contradicts the hypothesis. So the answer is False.
+<d>
+Answer[1]: Mike Tyson bit Holyfield's ear during the Holyfield fight, not in 1964, which contradicts the hypothesis. So the answer is False.
+Answer[2]: The team considered giving itself more time to write the constitution but still looked set to meet the mid-August deadline, not officials arguing about seeking a delay on Sunday, which contradicts the hypothesis. So the answer is False.
+<d>
+Answer[1]: Professor Ochoa Garcia is accused of having connections with the Salvadoran guerrillas, not a member of the Salvadoran government, which contradicts the hypothesis. So the answer is False.
+Answer[2]: Jeremy Lindseth is a spokesman for the airport, not an employee of the airport, which contradicts the hypothesis. So the answer is False.
+<d>
+Answer[1]: The massacre against Fenastras was carried out by Colonel Elena Fuente, not by FMLN, which contradicts the hypothesis. So the answer is False.
+Answer[2]: IBM stole trade secrets to copy two of its programs, confirming that trade secrets were stolen. So the answer is True.
+<d>
+Answer[1]: Texas Instruments is a leading maker of mobile phones, as mentioned in the premise. So the answer is True.
+Answer[2]: Two British soldiers were arrested in Basra, not tanks being set alight, which contradicts the hypothesis. So the answer is False.
+<d>
+Answer[1]: The incident occurred in the Lower Austrian town of Amstetten, which is located in Austria. So the answer is True.
+Answer[2]: Microsoft lost 500 million dollars due to software theft, not spent that amount. So the answer is False.
+<d>
+Answer[1]: Primary prevention of Alzheimer's disease is not possible at present, which contradicts the hypothesis. So the answer is False.
+Answer[2]: Charlton Heston played the title role in the movie "Ben-Hur". So the answer is True.
+<d>
+Answer[1]: Oracle will sell PeopleSoft and JD Edwards financial software, i.e., Oracle sells financial software. So the answer is True.
+Answer[2]: The Gurkhas come from Nepal, which matches the premise. So the answer is True.
+<d>
+Answer[1]: Ssangyong Motor collapsed under heavy debts during the Asian financial crisis, not the crisis taking over Ssangyong Motor. So the answer is False.
+Answer[2]: João Bernardo Vieira was the president of Guinea-Bissau. So the answer is True.
+<d>
+Answer[1]: Aspirin helps protect survivors of heart attack and stroke, and reduce deaths, which contradicts the hypothesis. So the answer is False.
+Answer[2]: Leakey believed Kenya's wildlife could be managed profitably and sustainably, not necessarily to attract tourists by keeping animals alive, which contradicts the hypothesis. So the answer is False.
+<d>
+Answer[1]: Without a natural greenhouse effect, the Earth's temperature would be different, indicating that the greenhouse effect changes global climate. So the answer is True.
+Answer[2]: Hubble and Chandra X-ray Observatory provided evidence for black holes, not just Hubble alone, which contradicts the hypothesis. So the answer is False.
+<d>
+Answer[1]: The impending healthcare reforms promise an era of increased cost-containment and pricing controls, which aligns with the hypothesis. So the answer is True.
+Answer[2]: Giuliana Sgrena, a female journalist, was kidnapped in Iraq. So the answer is True.
+<d>
+Answer[1]: About 33.5 million people live in this massive conurbation, which is likely Tokyo. So the answer is True.
+Answer[2]: Tropical Storm Irene is forecasted to approach the east coast of the US. So the answer is True.
+<d>
+Answer[1]: A child was killed, not a doctor, which contradicts the hypothesis. So the answer is False.
+Answer[2]: Cyrillic is an alphabet used for several Slavic languages, not just Russian, which contradicts the hypothesis. So the answer is False.
+<d>
+Answer[1]: Several new parties emerged, as mentioned in the premise. So the answer is True.
+Answer[2]: The Supreme Court ruled that juries, not judges, must impose a death sentence, which contradicts the hypothesis. So the answer is False.
+<d>
+Answer[1]: Euro Disney is described as a huge complex with a theme park, hotels, restaurants, shops, and a golf course, indicating it is an Entertainment Park. So the answer is True.
+Answer[2]: The chaotic situation in Bogota led to the assassination of Justice Carlos Valencia, not in Medellin, which contradicts the hypothesis. So the answer is False.
+<d>
+Answer[1]: There is no mention of Philip Markoff being engaged in the premise, so the hypothesis cannot be entailed. So the answer is False.
+Answer[2]: African elephants are hunted down and stripped of tusks by poachers, indicating they are endangered. So the answer is True.
+<d>
+Answer[1]: The extension of marketing exclusivity is to give pharmaceutical companies a fair return, not necessarily related to the market life of prospective drugs. So the answer is False.
+Answer[2]: Hepburn's family will receive the proceeds from the sale. So the answer is True.
+<d>
+Answer[1]: Democrat members of the Ways and Means Committee do not have strong small business voting records, which contradicts the hypothesis. So the answer is False.
+Answer[2]: The official visit of the Argentine minister marks a further step in the normalisation of UK-Argentine relations, indicating growing cooperation. So the answer is True.
+<d>
+Answer[1]: Women are hoped to vote for other women to ensure their representation in parliament, which contradicts the hypothesis. So the answer is False.
+Answer[2]: Warsaw was invaded by the Swedes in 1655, and the city was devastated. So the answer is True.
+<d>
+Answer[1]: President Bush can celebrate a net growth in jobs in his first term, which supports the hypothesis. So the answer is True.
+Answer[2]: The FBI started an independent probe, not the Commerce Department, which contradicts the hypothesis. So the answer is False.
+<d>
+Answer[1]: Coffee consumption can help reduce the risk of diseases. So the answer is True.
+Answer[2]: There is no mention of a relationship between Latif Khosa and Ms. Bhutto in the premise, which contradicts the hypothesis. So the answer is False.
+<d>
+Answer[1]: Alvaro Uribe is the President of Colombia. So the answer is True.
+Answer[2]: The Dalai Lama has been living in exile with more than 10,000 Tibetans, not since 10,000, which contradicts the hypothesis. So the answer is False.
+<d>
+Answer[1]: Adela Lupse was born in the village of Poiana, Bihor in Transylvania, Romania. So the answer is True.
+Answer[2]: Smith Barney is now a unit of Citigroup, not Merrill Lynch & Co., which contradicts the hypothesis. So the answer is False.
+<d>
+Answer[1]: The premise states that two young U.S. citizens were killed on 30 May 89. So the answer is True.
+Answer[2]: The text describes a movie plot involving a vampire, not stating that Robert Pattinson is a vampire. So the answer is False.
+<d>
+Answer[1]: Andreessen mentioned his commitment to his startup at the San Francisco Marriott hotel, not the creation of the Mosaic browser. So the answer is False.
+Answer[2]: The Supreme Court decision states may bar the removal of life-sustaining treatment from comatose patients. So the answer is True.
+<d>
+Answer[1]: The Massachusetts Supreme Judicial Court ruling does not imply a U.S. Supreme Court decision, which contradicts the hypothesis. So the answer is False.
+Answer[2]: Greg Page was a boxer, as mentioned in the premise. So the answer is True.

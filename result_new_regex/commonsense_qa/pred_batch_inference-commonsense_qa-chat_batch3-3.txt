@@ -1,0 +1,133 @@
+A[1]: The answer must be a place where a revolving door serves as a security measure. Of the above choices, a bank is a place where a revolving door can serve as a security measure. So the answer is (a).
+A[2]: The answer should be something that people typically aim to do at work. Of the above choices, completing the job makes the most sense. So the answer is (a).
+A[3]: The answer must be a place where magazines are found alongside other printed works. Of the above choices, a bookstore is the most likely place to find magazines alongside other printed works. So the answer is (b).
+<d>
+A[1]: The answer should be a place where hamburgers are commonly found. Of the above choices, only a fast food restaurant is a likely place to find a hamburger. So the answer is (a).
+A[2]: The answer must be a place where James might look for farmland. Of the above choices, only farming areas make sense for buying farmland. So the answer is (d).
+A[3]: The answer must be a place where ferrets are popular. Of the above choices, only great britain is known for ferrets. So the answer is (c).
+<d>
+A[1]: The question is asking about a Spanish-speaking North American country known for its coffee. Of the choices, only Mexico is a Spanish-speaking North American country known for its coffee. So the answer is (b).
+A[2]: The question is asking about what animals do when an enemy is approaching. Of the choices, listening to each other makes the most sense as a response to an approaching enemy. So the answer is (d).
+A[3]: The question is asking about one way to practice something while reading a newspaper. Of the choices, literacy is the most relevant to practicing while reading a newspaper. So the answer is (a).
+<d>
+A[1]: The answer must be something related to playing the guitar. Of the above choices, only making music is related to playing the guitar. So the answer is (e).
+A[2]: The answer should be something that vinyl would not be a suitable replacement for. Of the above choices, vinyl would be an odd replacement for cheese. So the answer is (d).
+A[3]: The answer must be something that relates to harmony. Of the above choices, making peace is related to harmony. So the answer is (d).
+<d>
+A[1]: The answer should be where a heifer's master lives. Of the above choices, only farm house makes sense as a place where a heifer's master might live. So the answer is (a).
+A[2]: The answer must be something that a dog needs aside from water and nourishment. Of the above choices, only lots of attention makes sense as dogs need attention. So the answer is (d).
+A[3]: The answer should be the reason why Janet was watching the film. Of the above choices, being entertained is the most likely reason. So the answer is (c).
+<d>
+A[1]: The answer must be something you would typically find in a reception area. Of the above choices, only people are commonly found in reception areas. So the answer is (d).
+A[2]: The answer should be an activity that can keep you busy while drinking booze. Of the above choices, examining things can keep you busy. So the answer is (d).
+A[3]: The answer must be the result of a fencing thrust with a sharp sword towards a person. Of the above choices, a puncture wound is the most likely result. So the answer is (e).
+<d>
+A[1]: The answer must be something that people have unlike a spider. Of the above choices, only two eyes are something that people have unlike a spider. So the answer is (e).
+A[2]: The answer should be a place where adults commonly use glue sticks. Of the above choices, the office is a common place where adults use glue sticks. So the answer is (d).
+A[3]: The answer must be something that can be placed on top of wood. Of the above choices, carpet is something that can go on top of wood. So the answer is (d).
+<d>
+A[1]: The answer should be what caused the artist to start painting. Of the above choices, only inspiration would make sense in this context. So the answer is (c).
+A[2]: The answer should be a word that means nearly unbreakable. Of the above choices, only indestructible fits this description. So the answer is (d).
+A[3]: The answer must be a place where only friends can use the toilet. Of the above choices, only apartment seems like a place where a private toilet for friends could be found. So the answer is (d).
+<d>
+A[1]: The answer should be a term for someone who isn't clever, bright, or competent. Of the above choices, the closest term is stupid. So the answer is (e).
+A[2]: The answer should be a term for what comes out when wildlife reproduce. Of the above choices, offspring is the correct term. So the answer is (d).
+A[3]: The answer should be a place where chicken eggs are kept. Of the above choices, only barn makes sense for keeping chicken eggs. So the answer is (b).
+<d>
+A[1]: The answer should be the reason why Blue read material outside of his comfort zone. Of the above choices, gaining a new perspective makes the most sense. So the answer is (a).
+A[2]: The answer must be a place where success is hoped for after getting hired. Of the above choices, vocation is the most appropriate place where success is hoped for. So the answer is (a).
+A[3]: The answer must be a consequence of committing perjury. Of the above choices, crime is the most serious consequence of committing perjury. So the answer is (b).
+<d>
+A[1]: The answer should be something that helps you finish work on time. Of the above choices, hasten means to do something quickly, which would help finish work on time. So the answer is (b).
+A[2]: The answer must be a place where old underground maps from the 50s might be found. Of the above choices, only a library might have such historical maps. So the answer is (a).
+A[3]: The answer should be what Sean was forced to do when the light turned yellow. Of the above choices, slowing down is what you should do when the light turns yellow. So the answer is (e).
+<d>
+A[1]: The answer should be an action related to waiting for one's turn. Of the above choices, only standing in line is related to waiting for one's turn. So the answer is (d).
+A[2]: The answer should be a positive feeling or emotion that helping at the senior center brought her. Of the above choices, only satisfaction and happiness are positive emotions. So the answer is (a) or (e).
+A[3]: The answer should be something related to the steering wheel and the thief's actions. Of the above choices, only ignition switch is related to the steering wheel in a car. So the answer is (c).
+<d>
+A[1]: The answer should be the entity that a police officer works for. Of the above choices, only city makes sense as a police officer typically works for a city. So the answer is (c).
+A[2]: The answer should be a place where leftover cake is typically stored. Of the above choices, only refrigerator is a suitable place to store leftover cake. So the answer is (b).
+A[3]: The answer should be something suitable for submerging oneself in water. Of the above choices, only whirlpool bath is suitable for submerging oneself in water. So the answer is (a).
+<d>
+A[1]: The answer must be a location where a doormat is typically placed. Of the above choices, only front door is a common location for a doormat. So the answer is (b).
+A[2]: The answer should be a warm place with lots of water. Of the above choices, only tropical rainforest fits the description. So the answer is (b).
+A[3]: The answer must be something related to needing money to avoid being kicked out of the house. Of the above choices, paying bills is the most relevant reason for needing money in this context. So the answer is (b).
+<d>
+A[1]: The answer must be something that someone consults for information. Of the above choices, only a manual provides information for fixing something. So the answer is (e).
+A[2]: The answer should be a place where a picture frame can be placed when not hung vertically. Of the above choices, only a table makes sense for placing a picture frame horizontally. So the answer is (e).
+A[3]: The answer must be a reason why buying beer for minors is bad. Of the above choices, only breaking the law is a valid reason. So the answer is (d).
+<d>
+A[1]: The result of applying for a job is typically being employed. So the answer is (e).
+A[2]: Before someone shops, they typically need to have money. So the answer is (b).
+A[3]: Since John was the first violin, he would need to bring his violin case to work every day. So the answer is (e).
+<d>
+A[1]: The answer must be a place that sometimes has a telephone book and usually does not have an elevator. Of the above choices, only a telephone booth fits this description. So the answer is (d).
+A[2]: The answer should be a place or person who would be excited about a crab. Of the above choices, a fish market is likely to be excited about a crab. So the answer is (a).
+A[3]: The answer must be a place where clothes that aren't pants can be found. Of the above choices, a dress shop is where clothes that aren't pants can be found. So the answer is (c).
+<d>
+A[1]: The answer should be a symptom of being drunk. Of the above choices, slurred speech is a common symptom of being drunk. So the answer is (b).
+A[2]: The answer must be related to the beginning of work. Of the above choices, building momentum makes the most sense when starting work. So the answer is (d).
+A[3]: The answer should be something a child would want to do for play. Of the above choices, playing tag is a common game children enjoy. So the answer is (c).
+<d>
+A[1]: The answer should be a reaction to talking to the same person about the same thing over and over again. Of the above choices, getting tired of makes the most sense. So the answer is (d).
+A[2]: The answer must be a place where a test is conducted. Of the above choices, only classroom is a place where a test is conducted. So the answer is (e).
+A[3]: The answer must be a place with no traffic and few buildings. Of the above choices, countryside is the most fitting description. So the answer is (b).
+<d>
+A[1]: The answer must be a place where you can have fun with a few people. Of the above choices, fairgrounds are a place where you can have fun with a few people. So the answer is (e).
+A[2]: The answer should describe a place that is hot and arid. Of the above choices, sandy fits the description of a hot and arid place. So the answer is (c).
+A[3]: The answer must be something that can satisfy curiosity. Of the above choices, reading a book is likely to satisfy someone's curiosity. So the answer is (b).
+<d>
+A[1]: The answer must be a state that is glove-shaped. Of the above choices, only Michigan is glove-shaped. So the answer is (b).
+A[2]: The answer should be a place where a computer user would typically use their own computer. Of the above choices, only house fits this description. So the answer is (e).
+A[3]: The answer must be an environment where crabs live. Of the above choices, saltwater is where crabs typically live. So the answer is (c).
+<d>
+A[1]: The answer must be a place where a snake is commonly found. Of the above choices, only field is a place where snakes can be found in tall grass. So the answer is (d).
+A[2]: The answer should be a place where a bench is nestled in trees. Of the above choices, only a state park is likely to have a bench nestled in trees. So the answer is (a).
+A[3]: The answer must be a place where a hungry person is likely to go. Of the above choices, only eating in a restaurant directly addresses the issue of hunger. So the answer is (a).
+<d>
+A[1]: The answer should describe the opponent's demeanor. Of the above choices, only confident fits the description of how the opponent was. So the answer is (d).
+A[2]: The answer must be a place where a single shower curtain is typically used. Of the above choices, only shower stall is a place where a single shower curtain is commonly used. So the answer is (d).
+A[3]: The answer must be a place where having a fire extinguisher is a good idea but not required. Of the above choices, having a fire extinguisher in a house is a good idea but not required. So the answer is (c).
+<d>
+A[1]: The answer must be a continent known for having many castles. Of the above choices, Europe is known for having the most castles. So the answer is (d).
+A[2]: The answer should be a feeling you might have when reading a dry and long book. Of the above choices, bored is the feeling you might have. So the answer is (e).
+A[3]: The answer must be a place where someone might use a clipboard to hold papers while working. Of the above choices, school is a likely place where someone might do this task. So the answer is (e).
+<d>
+A[1]: The answer should be something that the kids did before not cleaning up. Of the above choices, only playing with toys makes sense. So the answer is (d).
+A[2]: The answer must be something related to pawns. Of the above choices, only chess game is related to pawns. So the answer is (a).
+A[3]: The answer must be something that would not be true about a basketball with a hole in it. Of the above choices, only gone would not be true if it still maintains its general shape. So the answer is (d).
+<d>
+A[1]: The likely cause of waking multiple times throughout the night because a lot is on your mind is usually associated with anxiety or stress. Of the given choices, depression is the closest to this scenario. So the answer is (b).
+A[2]: Wild birds usually live in their natural habitat, which is the sky. So the answer is (b).
+A[3]: White mice are commonly found in laboratories for research purposes. So the answer is (e).
+<d>
+A[1]: The answer should be something that Harry could have always made differently. Of the above choices, only choice fits in the context. So the answer is (b).
+A[2]: The answer must be something that committing murder could prevent someone from doing. Of the above choices, only find god makes sense in this context. So the answer is (c).
+A[3]: The answer must be something that George could still do despite not having a car. Of the above choices, only walk fits the context. So the answer is (b).
+<d>
+A[1]: The answer must be a place where a crane would typically work. Of the above choices, construction site is the most likely place for a crane to work. So the answer is (d).
+A[2]: The main purpose of farmers is to supply food. So the answer is (e).
+A[3]: The best place to save a penny for later would be a piggy bank. So the answer is (a).
+<d>
+A[1]: The answer should be a place where uncooked crab meat is typically stored. Of the above choices, tidepools are a natural habitat for crabs. So the answer is (c).
+A[2]: The answer must be something related to illness. Of the above choices, sick person is the most directly related to illness. So the answer is (a).
+A[3]: The answer must be a place where you would put pans to bring them with you. Of the above choices, backpack is the most likely place to put pans for transportation. So the answer is (d).
+<d>
+A[1]: The answer should be related to remembering something. Of the above choices, only knowledge makes sense in the context of remembering something. So the answer is (a).
+A[2]: The answer must be a place where monkeys are commonly found. Of the above choices, the African continent is known to be home to the most monkeys. So the answer is (e).
+A[3]: The answer should be related to spending a long time after going to bed early. Of the above choices, making love is the most likely activity to spend a long time doing. So the answer is (c).
+<d>
+A[1]: The answer should be something that gave away the fact that the teens were drinking. Of the above choices, only vomiting would give it away. So the answer is (e).
+A[2]: The answer must be something that has a landing at the top. Of the above choices, only a stairwell has a landing at the top. So the answer is (c).
+A[3]: The answer must be a task related to working in a kitchen. Of the above choices, only washing dishes is a task that could be needed in a kitchen. So the answer is (d).
+<d>
+A[1]: The answer must be a place where wind instruments are commonly found together in public. Of the above choices, only a symphony would have a number of wind instruments together. So the answer is (e).
+A[2]: The answer should be a city where a mountie might be. Of the above choices, only Toronto is associated with mounties. So the answer is (e).
+A[3]: The answer must be something related to illustrating a point. Of the above choices, only make clear fits the context of illustrating a point. So the answer is (c).
+<d>
+A[1]: The reason Billy might set aside time for fun after work could be for stress relief or pleasure. Of the choices given, stress relief (b) seems like the most likely reason.
+A[2]: The man in the blue suit, who put in effort, would likely be described as productive (d) compared to the lazy man in the white suit.
+A[3]: If you have too much greed, you might be unable to make friends (b) as greed can often drive people away.
+<d>
+The answer to Q[1] is (e) city.

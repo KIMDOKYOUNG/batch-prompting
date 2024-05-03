@@ -1,0 +1,133 @@
+Answer[1]: Christopher Reeve's wife, Dana Reeve, died of lung cancer, not Christopher Reeve having an accident, which contradicts the hypothesis. So the answer is False.
+Answer[2]: Disease-causing bacteria are mutating faster than new antibiotics are being developed, indicating that bacteria are winning the war against antibiotics. So the answer is True.
+Answer[3]: The premise states that approximately 10,000 tonnes of rubbish are produced daily in Cairo, not 15 million tonnes, which contradicts the hypothesis. So the answer is False.
+<d>
+Answer[1]: The premise states that the Amish community in Pennsylvania numbers about 55,000, but it does not explicitly claim that it is the biggest Amish community in the U.S. Therefore, the hypothesis cannot be definitively determined as true or false based on the given premise.
+Answer[2]: The premise states that security forces were on high alert after an election campaign marred by violence, which supports the hypothesis. Therefore, the answer is True.
+Answer[3]: The premise explicitly states that the Egypt-Israel peace treaty was signed in 1979, confirming the hypothesis. Therefore, the answer is True.
+<d>
+Answer[1]: Britney Spears filed for divorce from Kevin Federline, which matches the hypothesis. So the answer is True.
+Answer[2]: Wales successfully bid to host the 2010 Ryder Cup, which matches the hypothesis. So the answer is True.
+Answer[3]: Steve Jobs was attacked by Sculley and other Apple executives, and he resigned from the company, which implies he worked for Apple. So the answer is True.
+<d>
+Answer[1]: The Raisani tribe is mentioned to be living in present-day Balochistan in Pakistan, supporting the hypothesis. So the answer is True.
+Answer[2]: The statement confirms that Doctors Without Borders is an international humanitarian aid organization, so the answer is True.
+Answer[3]: The statement mentions whisking together eggs and sugar, not vanilla, which contradicts the hypothesis. So the answer is False.
+<d>
+Answer[1]: The premise states that over 2.7 million people in Nigeria are infected with HIV, not in Africa as a whole. The hypothesis is not directly supported by the premise. So, the answer is False.
+Answer[2]: The premise states that Jack Kevorkian, also known as "Dr. Death," is facing a jury trial in Michigan. The hypothesis is not directly supported by the premise. So, the answer is False.
+Answer[3]: The premise states that Procter and Gamble has a $1.8 billion Research and Development budget, which supports the hypothesis. So, the answer is True.
+<d>
+Answer[1]: Deceased U.S. soldiers were evacuated, not U.S. citizens, which contradicts the hypothesis. So the answer is False.
+Answer[2]: Mice given a substance found in red wine lived longer despite a fatty diet. So the answer is True.
+Answer[3]: Charles de Gaulle died in 1970, as stated in the premise. So the answer is True.
+<d>
+Answer[1]: France participated in Euro 2004, as mentioned in the premise. So the answer is True.
+Answer[2]: The premise does not provide information about President Fujimori being re-elected in 1995. So the answer is False.
+Answer[3]: Hepburn's diamond and sapphire brooch fetched $120,000, as mentioned in the premise. So the answer is True.
+<d>
+Answer[1]: Huckaby is accused of killing Sandra Cantu. The premise supports the hypothesis, so the answer is True.
+Answer[2]: Eljvir Duka comes from Albania. The premise does not provide information about Eljvir Duka's origin, so the answer is Unknown.
+Answer[3]: "The Osbournes" is the name of a reality show starring Ozzy Osbourne. The premise confirms the hypothesis, so the answer is True.
+<d>
+Answer[1]: The premise does not mention the location of Sky News offices, so it cannot be determined whether they are close to the Bank of England. The answer is Unknown.
+Answer[2]: The premise states that the San Diego Padres lost the game, which contradicts the hypothesis. So the answer is False.
+Answer[3]: Unocal said its recommendation to shareholders in favor of the offer from Chevron remains in effect, not that it would evaluate the CNOOC offer, which contradicts the hypothesis. So the answer is False.
+<d>
+Answer[1]: Fallujah and Baqubah are mentioned as Iraqi cities in the premise, so the hypothesis is True.
+Answer[2]: Huawei mentions that obtaining visas for its Chinese engineers to work on long-term projects in India has not been easy, which contradicts the hypothesis. So the answer is False.
+Answer[3]: The premise describes a plane crash near Buffalo, so the hypothesis is True.
+<d>
+Answer[1]: The premise states that at the 1991 national census, some 3000 inhabitants of Slovenia declared themselves as ethnic Italians, not that Slovenia has exactly 3,000 inhabitants. So the answer is False.
+Answer[2]: The premise states that Eric Harris and Dylan Klebold killed a teacher and 12 students, which adds up to 13 persons killed in the 1999 incident. So the answer is True.
+Answer[3]: The premise does not indicate that Simon Cowell fell in love with Susan Boyle, only that he praised her performance. So the answer is False.
+<d>
+Answer[1]: The premise states that in 2001, the option for Pet passports was introduced, replacing the old system of 6 months compulsory quarantine for all domestic pets. This contradicts the hypothesis, so the answer is False.
+Answer[2]: The premise states that the 50th anniversary celebration of the first Normandy landing will spread out over a year. This aligns with the hypothesis, so the answer is True.
+Answer[3]: The premise states that the Qin established the approximate boundaries and basic administrative system that all subsequent dynasties were to follow, but it does not specifically mention Qin Shi Huang as the first Chinese Emperor. Therefore, the hypothesis cannot be directly inferred from the premise. The answer is False.
+<d>
+Answer[1]: Hands Across the Divide aimed for more freedom of contact and communication between the two parts of Cyprus, not that Cyprus was divided into two parts in March 2001. So the answer is False.
+Answer[2]: The IOC meeting will review reports from the organizing committees of the 1998 Winter Olympic Games in Nagano, Japan, which took place before Salt Lake City. So the answer is True.
+Answer[3]: Amazon shares fell nearly 4 percent, as stated in the premise. So the answer is True.
+<d>
+Answer[1]: The Winter Olympic Games took place in Nagano before Salt Lake City, which contradicts the hypothesis. So the answer is False.
+Answer[2]: A compound in breast milk may help fight cervical cancer. So the answer is True.
+Answer[3]: Mr. Dean released the plan on behalf of the Secretary of Health and Human Services, Tommy Thompson, not being the Secretary himself, which contradicts the hypothesis. So the answer is False.
+<d>
+Answer[1]: Alice Cooper is a born-again Christian, which supports the hypothesis that he is a Christian. So the answer is True.
+Answer[2]: Pibul Songgram was the pro-Japanese military dictator of Thailand during World War 2, which supports the hypothesis that he was the dictator of Thailand. So the answer is True.
+Answer[3]: Neil Armstrong was the first man to walk on the Moon, which supports the hypothesis that he was the first man who landed on the Moon. So the answer is True.
+<d>
+Answer[1]: KTLK is located in Los Angeles, not San Francisco, which contradicts the hypothesis. So the answer is False.
+Answer[2]: Russian cosmonaut Valery Polyakov holds the record for the longest continuous time spent in space. So the answer is True.
+Answer[3]: The harvest of sea-weeds is not allowed in the Puget Sound, which contradicts the hypothesis. So the answer is False.
+<d>
+Answer[1]: Mike Tyson bit Holyfield's ear during the Holyfield fight, not in 1964, which contradicts the hypothesis. So the answer is False.
+Answer[2]: Officials considered seeking a delay of the August deadline to give more time to write the constitution, which aligns with the hypothesis. So the answer is True.
+Answer[3]: Professor Ochoa Garcia was arrested by the Salvadoran government, not a member of it, which contradicts the hypothesis. So the answer is False.
+<d>
+Answer[1]: The premise does not provide information about Jeremy Lindseth being an employee of the Ted Stevens Anchorage International Airport. So, the answer is False.
+Answer[2]: The premise states that the massacre against Fenastras was carried out by Colonel Elena Fuente, not by FMLN. So, the answer is False.
+Answer[3]: The premise states that IBM stole trade secrets to copy two of its programs, confirming that trade secrets were stolen. So, the answer is True.
+<d>
+Answer[1]: Texas Instruments is one of the leading makers of mobile phones, not necessarily producing them, which does not fully support the hypothesis. So the answer is False.
+Answer[2]: The hypothesis states that two British tanks were set alight in clashes, which is not mentioned in the premise. Therefore, the answer is False.
+Answer[3]: The premise confirms that Amstetten is located in Lower Austria. So the answer is True.
+<d>
+Answer[1]: Microsoft lost more than 500 million dollars due to software theft, not spend that amount. So the answer is False.
+Answer[2]: Primary prevention of Alzheimer's disease is not possible at present, which implies it is not treated using drugs. So the answer is True.
+Answer[3]: Charlton Heston played the title role in the movie "Ben-Hur," as mentioned in the premise. So the answer is True.
+<d>
+Answer[1]: Oracle will sell PeopleSoft and JD Edwards financial software through reseller channels to new customers, so the hypothesis is True.
+Answer[2]: The Gurkhas come from Nepal, which is supported by the premise. So the hypothesis is True.
+Answer[3]: Ssangyong Motor was taken over by creditors after it collapsed under heavy debts during the 1997-98 Asian financial crisis, so the hypothesis is True.
+<d>
+Answer[1]: Bernardo Vieira was the president of Guinea-Bissau, as mentioned in the premise. So the answer is True.
+Answer[2]: Aspirin helps protect survivors of heart attack and stroke, and reduce deaths, which contradicts the hypothesis. So the answer is False.
+Answer[3]: Leakey believed Kenya's wildlife could be managed profitably and sustainably, but it does not directly imply that African countries encourage keeping animals alive to attract tourists. So the answer is False.
+<d>
+Answer[1]: The premise states that without a natural greenhouse effect, the Earth's temperature would be different, but it does not directly address the hypothesis that the greenhouse effect changes global climate. Therefore, the relationship between the premise and hypothesis is not clear. The answer is Indeterminate.
+Answer[2]: The premise states that NASA's two observatories provided evidence for the existence of an event horizon, a defining feature of a black hole. This supports the hypothesis that Hubble discovers black holes. So, the answer is True.
+Answer[3]: The premise suggests that impending healthcare reforms for US pharmaceutical companies may lead to increased cost-containment and pricing controls, which aligns with the hypothesis that the US government wants to keep drug prices down. So, the answer is True.
+<d>
+Answer[1]: A female journalist was kidnapped in Iraq. The premise supports the hypothesis, so the answer is True.
+Answer[2]: About 33.5 million people live in Tokyo. The premise does not mention Tokyo, so the hypothesis cannot be confirmed. The answer is False.
+Answer[3]: A storm called Irene is going to approach the east coast of the US. The premise supports the hypothesis, so the answer is True.
+<d>
+Answer[1]: The child was killed, not a doctor by his parents, which contradicts the hypothesis. So the answer is False.
+Answer[2]: Cyrillic is an alphabet used for several Slavic languages, including Russian. So the answer is True.
+Answer[3]: Several new political parties emerged, as mentioned in the premise. So the answer is True.
+<d>
+Answer[1]: The Supreme Court ruled that juries, not judges, must impose a death sentence, which contradicts the hypothesis. So the answer is False.
+Answer[2]: Euro Disney is described as a huge complex with various amenities and a theme park, indicating it is an entertainment park. So the answer is True.
+Answer[3]: Justice Carlos Valencia was assassinated in Bogota, not Medellin, which contradicts the hypothesis. So the answer is False.
+<d>
+Answer[1]: There is no mention of the medical student Philip Markoff being engaged in the premise, so the hypothesis cannot be determined. 
+Answer[2]: African elephants are mentioned as being endangered by ivory poachers in the premise, so the hypothesis is True.
+Answer[3]: The premise mentions the extension of marketing exclusivity for drugs, but it does not directly state that prospective drugs must have a long market life after regulatory approval in order to be developed. Therefore, the hypothesis cannot be determined.
+<d>
+Answer[1]: Hepburn's family will receive the proceeds from the sale, which supports the hypothesis. So the answer is True.
+Answer[2]: Democrat members of the Ways and Means Committee do not have strong small business voting records, which supports the hypothesis. So the answer is True.
+Answer[3]: The official visit of the Argentine minister marks a further step in the normalization of UK-Argentine relations, which indicates that relations between Argentina and Great Britain are growing more cooperative. So the answer is True.
+<d>
+Answer[1]: The premise states that it is hoped women will vote for other women and ensure their representation in parliament, suggesting that women are not well represented currently. So, the hypothesis that women are poorly represented in parliament is True.
+Answer[2]: The premise states that a Swedish invasion devastated Warsaw in 1655-56, confirming that Warsaw was invaded by the Swedes in 1655 and the city was devastated. So, the hypothesis is True.
+Answer[3]: The premise mentions job gains during President Bush's first term, indicating that more jobs were created. Therefore, the hypothesis that more jobs were created during President Bush's first term is True.
+<d>
+Answer[1]: The FBI started an independent probe, not at the instigation of the Commerce Department, which contradicts the hypothesis. So the answer is False.
+Answer[2]: Researchers at the Harvard School of Public Health say coffee drinking has health benefits. So the answer is True.
+Answer[3]: There is no mention of a relationship between Latif Khosa and Ms. Bhutto in the premise, so the hypothesis is False.
+<d>
+Answer[1]: Alvaro Uribe is mentioned as the President of Colombia in the premise, so the hypothesis is True.
+Answer[2]: The Dalai Lama is mentioned as living in exile in the premise, but not since 10,000. The hypothesis is False.
+Answer[3]: Adela Lupse was born in the village of Poiana, Bihor in Transylvania, Romania, as mentioned in the premise. The hypothesis is True.
+<d>
+Answer[1]: Merrill Lynch & Co. and Smith Barney settled discrimination cases in 1998, but it does not imply they are now a unit of Citigroup. So the answer is False.
+Answer[2]: The police disclosed investigations into the murder of two young U.S. citizens on 30 May 89. So the answer is True.
+Answer[3]: The text describes Robert Pattinson's success in the movie "Twilight" but does not state he is a vampire. So the answer is False.
+<d>
+Answer[1]: The statement mentions that Andreessen spoke at the San Francisco Marriott hotel, but it does not imply that the Internet browser Mosaic was created there. So the answer is False.
+Answer[2]: The premise states that the Supreme Court made a decision regarding the removal of life-sustaining treatment from comatose patients. So the answer is True.
+Answer[3]: The premise mentions the Massachusetts Supreme Judicial Court's ruling on same-sex marriage, not the U.S. Supreme Court. So the answer is False.
+<d>
+Answer[1]: The premise clearly states that Greg Page was a former WBA heavyweight champ who suffered a severe brain injury in a fight and died due to boxing injuries and paralysis. It also provides details of his boxing career. Therefore, the hypothesis that Greg Page was a boxer is True.

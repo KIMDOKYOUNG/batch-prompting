@@ -1,0 +1,132 @@
+Q[1]: Julia played tag with 18 kids on monday. She played tag with 10 kids on tuesday. How many more kids did she play with on monday than on tuesday?
+Q[2]: Julia played tag with 11 kids on monday. She played tag with 12 kids on tuesday. How many more kids did she play with on tuesday than on monday?
+Q[3]: Julia played tag with 5 kids on monday. She played tag with some more kids on tuesday. If she played with a total of 15 kids how many kids did she play with on tuesday?
+Q[4]: Julia played tag with some kids on monday. She played tag with 14 kids on tuesday. If she played with a total of 16 kids how many kids did she play with on monday?
+Q[5]: Julia played tag with 16 kids on monday. If she played tag with 12 more kids on monday than on tuesday how many kids did she play with on tuesday?
+Q[6]: Julia played tag with 14 kids on tuesday. If she played tag with 8 more kids on monday than on tuesday how many kids did she play with on monday?
+
+<d>
+Q[1]: Julia played tag with 17 kids on monday 15 kids on tuesday and 2 kids on wednesday. How many kids did she play with altogether?
+Q[2]: Julia played tag with 15 kids on monday 18 kids on tuesday and 97 kids on wednesday. How many kids did she play with on monday and tuesday?
+Q[3]: Julia played tag with 5 kids on monday 9 kids on tuesday and 15 kids on wednesday. How many kids did she play with on monday and wednesday?
+Q[4]: Julia played tag with 2 kids on monday 14 kids on tuesday and 16 kids on wednesday. How many kids did she play with on tuesday and wednesday?
+Q[5]: Julia played tag with 9 kids on monday 7 kids on tuesday and 96 kids on wednesday. How many more kids did she play with on monday than on tuesday?
+Q[6]: Julia played tag with 14 kids on monday 2 kids on tuesday and 8 kids on wednesday. How many more kids did she play with on monday than on wednesday?
+
+<d>
+Q[1]: Julia played tag with 8 kids on monday 11 kids on tuesday and 9 kids on wednesday. How many more kids did she play with on tuesday than on wednesday?
+Q[2]: Julia played tag with 15 kids on monday 18 kids on tuesday and 7 kids on wednesday. How many more kids did she play with on monday and tuesday than on wednesday?
+Q[3]: Julia played tag with 13 kids on monday and 10 kids on tuesday. She played cards wtih 15 kids on wednesday. How many kids did she play with altogether?
+Q[4]: Julia played tag with 7 kids on monday and 13 kids on tuesday. She played cards wtih 20 kids on wednesday. How many kids did she play tag with altogether?
+Q[5]: Julia played tag with 12 kids on monday. She played tag with 14 kids on tuesday. She spent a total of 34 hours to play tag on both days. How many kids did she play with altogether?
+Q[6]: Julia played tag with 19 kids on monday. She played tag with 18 kids on tuesday. She spent a total of 38 hours to play tag on both days. How many more kids did she play with on monday than on tuesday?
+
+<d>
+Q[1]: Julia played tag with 5 kids on tuesday. She had played tag with 6 kids on monday. How many more kids did she play with on monday than on tuesday?
+Q[2]: Julia played tag with a total of 18 kids. She played with 4 kids on monday and yet with some more kids on tuesday. How many kids did she play with on tuesday?
+Q[3]: Julia played tag with 4 kids on wednesday. She had played with 6 kids on monday and 17 kids on tuesday. How many more kids did she play with on monday than on wednesday?
+Q[4]: Bobby ate some pieces of candy. Then he ate 25 more. If he ate a total of 43 pieces of candy how many pieces of candy had he eaten at the start?
+Q[5]: Bobby ate 28 pieces of candy. Then he ate 42 more. He also ate 63 pieces of chocolate. How many pieces of candy did bobby eat?
+Q[6]: Bobby ate 33 pieces of candy. Then he ate 4 more. He also ate 14 pieces of chocolate. How many pieces of candy and chocolate did bobby eat altogether?
+
+<d>
+Q[1]: Bobby ate 38 pieces of candy. Then he ate 36 more. He also ate 16 pieces of chocolate. How many more pieces of candy than chocolate did bobby eat?
+Q[2]: Bobby had 20 pieces of candy. He ate 34 pieces of candy. Then he ate 18 more. How many pieces of candy did bobby eat?
+Q[3]: Bobby had 21 pieces of candy. He ate 5 pieces of candy. Then he ate 9 more. How many pieces of candy does he still have left?
+Q[4]: Bobby had 22 pieces of candy. He ate some pieces of candy. Then he ate 5 more. If he still has 8 pieces of candy left how many pieces of candy had he eaten at the start?
+Q[5]: Bobby had 19 pieces of candy. He ate 2 pieces of candy. How many pieces of candy does he still have left?
+Q[6]: Bobby had 32 pieces of candy. He ate some pieces of candy. If he has 20 pieces of candy left how many pieces of candy did bobby eat?
+
+<d>
+Q[1]: Bobby ate 17 pieces of candy. Then he ate 15 more. If he initially had 36 pieces of candy how many pieces of candy does he still have left?
+Q[2]: Bobby ate 23 pieces of candy. If he initially had 30 pieces of candy how many pieces of candy does he still have left?
+Q[3]: Allan brought 5 balloons and jake brought 3 balloons to the park. How many more balloons did allan have than jake in the park?
+Q[4]: Allan brought 2 balloons and jake brought 3 balloons to the park. How many more balloons did jake have than allan in the park?
+Q[5]: Allan and jake brought 3 balloons to the park. If allan brought 2 balloons how many balloons did jake bring to the park?
+Q[6]: Jake brought 6 balloons to the park. If jake brought 4 more balloons than the number of balloons that allan brought how many balloons did allan bring to the park?
+
+<d>
+Q[1]: Allan brought 5 balloons to the park. If jake brought 6 more balloons than the number of balloons that allan brought how many balloons did jake bring to the park?
+Q[2]: Allan brought 3 balloons and jake brought 5 balloons to the park. Allan then bought 2 more balloons at the park. How many balloons did allan and jake have in the park?
+Q[3]: Allan brought 2 balloons and jake brought 4 balloons to the park. Allan then bought 3 more balloons at the park. How many more balloons did allan have than jake in the park?
+Q[4]: Allan brought 2 balloons and jake brought 6 balloons to the park. Allan then bought 3 more balloons at the park. How many more balloons did jake have than allan in the park?
+Q[5]: Allan brought 5 balloons and jake brought 4 balloons to the park. Allan then bought 3 more balloons at the park. How many balloons did allan bring to the park?
+Q[6]: Allan brought 6 balloons and jake brought 2 balloons to the park. Jake then bought 3 more balloons at the park. How many more balloons did allan have than jake in the park?
+
+<d>
+Q[1]: Allan brought 6 balloons and jake brought 3 balloons to the park. Jake then bought 4 more balloons at the park. How many more balloons did jake have than allan in the park?
+Q[2]: Allan brought 5 balloons and jake brought 6 balloons to the park. Jake then bought 3 more balloons at the park. How many balloons did jake bring to the park?
+Q[3]: Allan brought 3 balloons and 20 balls while jake brought 5 balloons and 59 balls to the park. How many balloons did allan and jake have in the park?
+Q[4]: Allan brought 7 balloons and 5 balls while jake brought 6 balloons and 4 balls to the park. How many balls did allan and jake have in the park?
+Q[5]: Allan brought 5 balloons. If allan and jake brought total of 6 balloons to the park how many balloons did jake bring to the park?
+Q[6]: Allan brought 2 balloons to the park and then bought 3 more balloons there. If jake brought 6 balloons to the park how many more balloons did jake have than allan in the park?
+
+<d>
+Q[1]: Every day ryan spends 6 hours on learning english and 2 hours on learning chinese. How many more hours does he spend on learning english than he does on learning chinese?
+Q[2]: Every day ryan spends 6 hours on learning english and 7 hours on learning chinese. How many more hours does he spend on learning chinese than he does on learning english?
+Q[3]: Every day ryan spends 3 hours on learning english and some more hours on learning chinese. If he spends a total of 4 hours on learning english and chinese everyday how many hours does he spend on learning chinese?
+Q[4]: Every day ryan spends 7 hours on learning english and some more hours on learning chinese. If he spends 2 hours more on learning english than on learning chinese how many hours does he spend on learning chinese?
+Q[5]: Every day ryan spends 5 hours on learning chinese and some more hours on learning english. If he spends 2 hours more on learning english than on learning chinese how many hours does he spend on learning english?
+Q[6]: Every day ryan spends 6 hours on learning english and 7 hours on learning chinese. If he learns for 5 days how many hours does he spend on learning english and chinese in all?
+
+<d>
+Q[1]: Every day ryan spends 6 hours on learning english and 5 hours on learning chinese. If he learns for 2 days how many hours does he spend on learning english in all?
+Q[2]: Every day ryan spends 5 hours on learning english and 4 hours on learning chinese. If he learns for 6 days how many hours does he spend on learning chinese in all?
+Q[3]: Every day ryan spends 4 hours on learning english and 6 hours on learning chinese. If he learns for 86 days how many hours does he spend on learning english and chinese each day?
+Q[4]: Every day ryan spends 6 hours on learning english 7 hours on learning chinese and 3 hours on learning spanish. How many hours does he spend on learning english chinese and spanish in all?
+Q[5]: Every day ryan spends 6 hours on learning english 3 hours on learning chinese and 58 hours on learning spanish. How many more hours does he spend on learning english than he does on learning chinese?
+Q[6]: Every day ryan spends 7 hours on learning english 2 hours on learning chinese and 4 hours on learning spanish. How many more hours does he spend on learning english than he does on learning spanish?
+
+<d>
+Q[1]: Every day ryan spends 2 hours on learning english 5 hours on learning chinese and 4 hours on learning spanish. How many more hours does he spend on learning chinese than he does on learning spanish?
+Q[2]: Every day ryan spends a total of 3 hours on learning english and chinese. If he spends 2 hours on learning english everyday how many hours does he spend on learning chinese?
+Q[3]: Ryan learns english and chinese for 7 days. Every day he spends 4 hours on learning english and 5 hours on learning chinese. How many hours does he spend on learning english and chinese in all?
+Q[4]: Tiffany was collecting cans for recycling. On monday she had 8 bags of cans. The next day she found 7 more bags worth of cans. How many more bags did she have on monday than she found on the next day?
+Q[5]: Tiffany was collecting cans for recycling. On monday she had 7 bags of cans. The next day she found 12 more bags worth of cans. How many more bags did she find on the next day than she had on monday?
+Q[6]: Tiffany was collecting cans for recycling. On monday she had 4 bags of cans. The next day she found some more bags worth of cans. If she had a total of 6 bags altogether how many bags did she find on the next day?
+
+<d>
+Q[1]: Tiffany was collecting cans for recycling. On monday she had some bags of cans. The next day she found 4 more bags worth of cans. If she had a total of 8 bags altogether how many bags did she have on monday?
+Q[2]: Tiffany was collecting cans for recycling. On monday she had 10 bags of cans. She found 3 bags of cans on the next day and 7 bags of cans the day after that. How many bags did she have altogether?
+Q[3]: Tiffany was collecting cans for recycling. On monday she had 8 bags of cans. She found 10 bags of cans on the next day and 4 bags of cans the day after that. How many bags did she find after monday?
+Q[4]: Tiffany was collecting cans for recycling. On monday she had 3 bags of cans. The next day she found 7 more bags of cans and 44 bags of bottles. How many bags of cans did she have altogether?
+Q[5]: 17 red peaches and 16 green peaches are in the basket. How many more red peaches than green peaches are in the basket?
+Q[6]: 5 red peaches and 11 green peaches are in the basket. How many more green peaches than red peaches are in the basket?
+
+<d>
+Q[1]: 10 red peaches and some more green peaches are in the basket. If there are a total of 15 peaches in the basket how many green peaches are in the basket?
+Q[2]: 3 red peaches and some more green peaches are in the basket. If there are 10 more green peaches than red peaches in the basket how many green peaches are in the basket?
+Q[3]: 7 red peaches 15 yellow peaches and 8 green peaches are in the basket. How many peaches are in the basket?
+Q[4]: 7 red peaches 71 yellow peaches and 8 green peaches are in the basket. How many more green peaches than red peaches are in the basket?
+Q[5]: 2 red peaches 6 yellow peaches and 14 green peaches are in the basket. How many more green peaches than yellow peaches are in the basket?
+Q[6]: 19 red peaches 11 yellow peaches and 12 green peaches are in the basket. How many more red peaches than yellow peaches are in the basket?
+
+<d>
+Q[1]: 6 red peaches 90 yellow peaches and 16 green peaches are in the basket. How many red and green peaches are in the basket?
+Q[2]: 18 red peaches 14 yellow peaches and 17 green peaches are in the basket. How many red and yellow peaches are in the basket?
+Q[3]: 5 red peaches 14 yellow peaches and 6 green peaches are in the basket. How many green and yellow peaches are in the basket?
+Q[4]: There are 65 baskets of peaches. Each basket has 7 red peaches and 3 green peaches. How many peaches are in each basket?
+Q[5]: There are 11 baskets of peaches. Each basket has 10 red peaches and 18 green peaches. How many peaches are in the baskets altogether?
+Q[6]: There are 6 baskets of peaches. Each basket has 16 red peaches and 18 green peaches. How many red peaches are in the baskets altogether?
+
+<d>
+Q[1]: There are 7 baskets of peaches. Each basket has 10 red peaches and 2 green peaches. How many green peaches are in the baskets altogether?
+Q[2]: There are some baskets of peaches. Each basket has 4 red peaches and 3 green peaches. If there are a total of 7 peaches in all baskets how many baskets of peaches are there?
+Q[3]: There are 2 baskets of peaches. Each basket has 4 red peaches and some more green peaches. If there are a total of 12 peaches in all baskets how many green peaches are in each basket?
+Q[4]: There are a total of 16 peaches in a basket. If there are 13 red peaches and some more green peaches in the basket. How many green peaches are in the basket?
+Q[5]: Each basket of peaches has 19 red peaches and 4 green peaches. If there are 15 such baskets how many peaches are in the baskets altogether?
+Q[6]: There are 10 peaches distributed equally in some baskets. If each basket has 4 red peaches and 6 green peaches how many baskets of peaches are there?
+
+<d>
+Q[1]: 6 green peaches 60 yellow peaches and 2 red peaches are in the basket. How many more green peaches than red peaches are in the basket?
+Q[2]: Jerry had 4 action figures on a shelf in his room. Later he added some more action figures to the shelf. If there are a total of 8 action figures on his shelf now how many action figures did he add to the shelf?
+Q[3]: Jerry had some action figures on a shelf in his room. Later he added 7 more action figures to the shelf. If there are a total of 10 action figures on his shelf now how many action figures did he have initially on the shelf?
+Q[4]: Jerry had 4 action figures and 22 books on a shelf in his room. Later he added 6 more action figures to the shelf. How many action figures were on his shelf in all?
+Q[5]: Jerry had 5 action figures and 9 books on a shelf in his room. Later he added 7 more action figures to the shelf. How many more action figures than books were on his shelf?
+Q[6]: Jerry had 2 action figures and 10 books on a shelf in his room. Later he added 4 more action figures to the shelf. How many more books than action figures were on his shelf?
+
+<d>
+Q[1]: Jerry had 8 action figures and 9 books on a shelf in his room. Later he added 10 more books to the shelf. How many books were on his shelf in all?
+Q[2]: Jerry had 7 action figures and 2 books on a shelf in his room. Later he added 4 more books to the shelf. How many more action figures than books were on his shelf?
+Q[3]: Jerry had 5 action figures and 2 books on a shelf in his room. Later he added 9 more books to the shelf. How many more books than action figures were on his shelf?
+Q[4]: Jerry had 8 action figures on a shelf in his room. Later he added 4 more action figures to the shelf and removed 5 old ones. How many action figures were on his shelf in all?

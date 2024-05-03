@@ -1,0 +1,116 @@
+A[1]: Julia played with 18 kids on monday and 10 kids on tuesday. The difference is 18 - 10 = 8. The answer is 8.
+A[2]: Julia played with 11 kids on monday and 12 kids on tuesday. The difference is 12 - 11 = 1. The answer is 1.
+A[3]: Julia played with 5 kids on monday. If she played with a total of 15 kids, then she played with 15 - 5 = 10 kids on tuesday. The answer is 10.
+A[4]: Julia played with 14 kids on tuesday. If she played with a total of 16 kids, then she played with 16 - 14 = 2 kids on monday. The answer is 2.
+A[5]: Julia played with 16 kids on monday and 12 kids on tuesday. The difference is 16 - 12 = 4. The answer is 4.
+A[6]: Julia played with 14 kids on tuesday. If she played with 8 more kids on monday than on tuesday, then she played with 14 - 8 = 6 kids on monday. The answer is 6.
+<d>
+A[1]: Julia played with 17 + 15 + 2 = 34 kids altogether. The answer is 34.
+A[2]: Julia played with 15 kids on monday and 18 kids on tuesday. So she played with 15 + 18 = 33 kids on monday and tuesday. The answer is 33.
+A[3]: Julia played with 5 kids on monday and 15 kids on wednesday. So she played with 5 + 15 = 20 kids on monday and wednesday. The answer is 20.
+A[4]: Julia played with 14 kids on tuesday and 16 kids on wednesday. So she played with 14 + 16 = 30 kids on tuesday and wednesday. The answer is 30.
+A[5]: Julia played with 9 kids on monday and 7 kids on tuesday. The difference is 9 - 7 = 2. She played with 2 more kids on monday than on tuesday. The answer is 2.
+A[6]: Julia played with 14 kids on monday and 8 kids on wednesday. The difference is 14 - 8 = 6. She played with 6 more kids on monday than on wednesday. The answer is 6.
+<d>
+A[1]: Julia played with 11 kids on Tuesday and 9 kids on Wednesday. The difference is 11 - 9 = 2 kids. The answer is 2.
+A[2]: Julia played with 15 kids on Monday and 18 kids on Tuesday. The total is 15 + 18 = 33 kids. She played with 7 kids on Wednesday. The difference is 33 - 7 = 26 kids. The answer is 26.
+A[3]: Julia played with 13 kids on Monday, 10 kids on Tuesday, and 15 kids on Wednesday. The total is 13 + 10 + 15 = 38 kids. The answer is 38.
+A[4]: Julia played with 7 kids on Monday, 13 kids on Tuesday, and 20 kids on Wednesday. The total is 7 + 13 + 20 = 40 kids. The answer is 40.
+A[5]: Julia played with 12 kids on Monday and 14 kids on Tuesday. The total number of kids she played with is 12 + 14 = 26 kids. The answer is 26.
+A[6]: Julia played with 19 kids on Monday and 18 kids on Tuesday. The difference is 19 - 18 = 1 kid. The answer is 1.
+<d>
+A[1]: Julia played with 6 kids on monday and 5 kids on tuesday. The difference is 6 - 5 = 1. The answer is 1.
+A[2]: Julia played with 4 kids on monday. If she played with a total of 18 kids, then she played with 18 - 4 = 14 kids on tuesday. The answer is 14.
+A[3]: Julia played with 6 kids on monday, 17 kids on tuesday, and 4 kids on wednesday. The difference between monday and wednesday is 6 - 4 = 2. The answer is 2.
+A[4]: Bobby ate some pieces of candy and then ate 25 more, totaling 43 pieces. So, he ate 43 - 25 = 18 pieces of candy at the start. The answer is 18.
+A[5]: Bobby ate 28 pieces of candy, then 42 more, and 63 pieces of chocolate. The total candy eaten is 28 + 42 = 70. The answer is 70.
+A[6]: Bobby ate 33 pieces of candy, then 4 more, and 14 pieces of chocolate. The total pieces eaten is 33 + 4 + 14 = 51. The answer is 51.
+<d>
+A[1]: Bobby ate 38 + 36 = 74 pieces of candy. He also ate 16 pieces of chocolate. So he ate 74 - 16 = 58 more pieces of candy than chocolate. The answer is 58.
+A[2]: Bobby started with 20 pieces of candy. He ate 34 + 18 = 52 pieces of candy. The answer is 52.
+A[3]: Bobby started with 21 pieces of candy. He ate 5 + 9 = 14 pieces of candy. So he has 21 - 14 = 7 pieces of candy left. The answer is 7.
+A[4]: Bobby started with 22 pieces of candy. He ate 22 - 8 = 14 pieces of candy. The answer is 14.
+A[5]: Bobby started with 19 pieces of candy. He ate 2 pieces of candy. So he has 19 - 2 = 17 pieces of candy left. The answer is 17.
+A[6]: Bobby started with 32 pieces of candy. He has 20 pieces of candy left. So he ate 32 - 20 = 12 pieces of candy. The answer is 12.
+<d>
+A[1]: Bobby initially had 36 pieces of candy. He ate 17 + 15 = 32 pieces of candy. So he has 36 - 32 = 4 pieces of candy left.
+A[2]: Bobby initially had 30 pieces of candy. He ate 23 pieces of candy. So he has 30 - 23 = 7 pieces of candy left.
+A[3]: Allan brought 5 balloons and Jake brought 3 balloons. Allan had 5 - 3 = 2 more balloons than Jake.
+A[4]: Allan brought 2 balloons and Jake brought 3 balloons. Jake had 3 - 2 = 1 more balloon than Allan.
+A[5]: Allan brought 2 balloons and Jake brought 3 balloons. Since they brought a total of 3 balloons, Jake brought 3 - 2 = 1 balloon.
+A[6]: Jake brought 6 balloons and he brought 4 more balloons than Allan. So Allan brought 6 - 4 = 2 balloons.
+<d>
+A[1]: Allan brought 5 balloons. Jake brought 6 more balloons than Allan, so Jake brought 5 + 6 = 11 balloons to the park.
+A[2]: Allan brought 3 balloons and Jake brought 5 balloons. Allan then bought 2 more balloons, so they had 3 + 5 + 2 = 10 balloons in the park.
+A[3]: Allan brought 2 balloons and Jake brought 4 balloons. Allan then bought 3 more balloons, so Allan had 2 + 3 = 5 balloons and Jake had 4 balloons. Allan had 5 - 4 = 1 more balloon than Jake in the park.
+A[4]: Allan brought 2 balloons and Jake brought 6 balloons. Allan then bought 3 more balloons, so Allan had 2 + 3 = 5 balloons and Jake had 6 balloons. Jake had 6 - 5 = 1 more balloon than Allan in the park.
+A[5]: Allan brought 5 balloons and Jake brought 4 balloons. Allan then bought 3 more balloons, so Allan had 5 + 3 = 8 balloons in the park.
+A[6]: Allan brought 6 balloons and Jake brought 2 balloons. Jake then bought 3 more balloons, so Allan had 6 balloons and Jake had 2 + 3 = 5 balloons. Allan had 6 - 5 = 1 more balloon than Jake in the park.
+<d>
+A[1]: Jake brought 3 balloons and then bought 4 more, so he had 3 + 4 = 7 balloons at the park. Allan brought 6 balloons. Therefore, Jake had 7 - 6 = 1 more balloon than Allan in the park.
+A[2]: Jake brought 6 balloons and then bought 3 more, so he had 6 + 3 = 9 balloons at the park.
+A[3]: Allan brought 3 balloons and Jake brought 5 balloons, so they had a total of 3 + 5 = 8 balloons in the park.
+A[4]: Allan brought 5 balls and Jake brought 4 balls, so they had a total of 5 + 4 = 9 balls in the park.
+A[5]: If Allan brought 5 balloons and the total number of balloons brought by both Allan and Jake was 6, then Jake brought 6 - 5 = 1 balloon to the park.
+A[6]: Allan brought 2 balloons and then bought 3 more, so he had 2 + 3 = 5 balloons at the park. Jake brought 6 balloons. Therefore, Jake had 6 - 5 = 1 more balloon than Allan in the park.
+<d>
+A[1]: Ryan spends 6 hours on learning English and 2 hours on learning Chinese. The difference is 6 - 2 = 4 hours. The answer is 4.
+A[2]: Ryan spends 6 hours on learning English and 7 hours on learning Chinese. The difference is 7 - 6 = 1 hour. The answer is 1.
+A[3]: Ryan spends 3 hours on learning English and a total of 4 hours on learning English and Chinese. So he spends 4 - 3 = 1 hour on learning Chinese. The answer is 1.
+A[4]: Ryan spends 7 hours on learning English and 2 hours more on English than on Chinese. So he spends 7 - 2 = 5 hours on learning Chinese. The answer is 5.
+A[5]: Ryan spends 5 hours on learning Chinese and 2 hours more on English than on Chinese. So he spends 5 - 2 = 3 hours on learning English. The answer is 3.
+A[6]: Ryan spends 6 hours on learning English and 7 hours on learning Chinese each day for 5 days. So in total, he spends (6 + 7) * 5 = 65 hours on learning English and Chinese. The answer is 65.
+<d>
+A[1]: Ryan spends 6 hours on learning English each day. If he learns for 2 days, he spends a total of 6 * 2 = 12 hours on learning English. The answer is 12 hours.
+A[2]: Ryan spends 4 hours on learning Chinese each day. If he learns for 6 days, he spends a total of 4 * 6 = 24 hours on learning Chinese. The answer is 24 hours.
+A[3]: Ryan spends 4 hours on learning English and 6 hours on learning Chinese each day. So in total, he spends 4 + 6 = 10 hours on learning English and Chinese each day. The answer is 10 hours.
+A[4]: Ryan spends 6 hours on learning English, 7 hours on learning Chinese, and 3 hours on learning Spanish each day. So in total, he spends 6 + 7 + 3 = 16 hours on learning English, Chinese, and Spanish each day. The answer is 16 hours.
+A[5]: Ryan spends 6 hours on learning English and 3 hours on learning Chinese each day. The difference in hours spent on learning English and Chinese is 6 - 3 = 3 hours. The answer is 3 hours.
+A[6]: Ryan spends 7 hours on learning English and 4 hours on learning Spanish each day. The difference in hours spent on learning English and Spanish is 7 - 4 = 3 hours. The answer is 3 hours.
+<d>
+A[1]: Ryan spends 5 hours on learning Chinese and 4 hours on learning Spanish. The difference is 5 - 4 = 1 hour. The answer is 1 hour.
+A[2]: Ryan spends a total of 3 hours on learning English and Chinese, and 2 hours on learning English. So, he spends 3 - 2 = 1 hour on learning Chinese. The answer is 1 hour.
+A[3]: Ryan spends 4 hours on learning English and 5 hours on learning Chinese each day for 7 days. So, in total, he spends (4 + 5) * 7 = 63 hours on learning English and Chinese. The answer is 63 hours.
+A[4]: Tiffany had 8 bags of cans on Monday and found 7 more bags the next day. The difference is 8 - 7 = 1 bag. The answer is 1 bag.
+A[5]: Tiffany had 7 bags of cans on Monday and found 12 more bags the next day. The difference is 12 - 7 = 5 bags. The answer is 5 bags.
+A[6]: Tiffany had 4 bags of cans on Monday and a total of 6 bags altogether. So, she found 6 - 4 = 2 bags on the next day. The answer is 2 bags.
+<d>
+A[1]: If Tiffany had a total of 8 bags altogether and found 4 more bags the next day, then she must have had 8 - 4 = 4 bags on Monday. The answer is 4.
+A[2]: Tiffany had 10 bags on Monday, found 3 more the next day, and 7 more the day after that. So she had 10 + 3 + 7 = 20 bags altogether. The answer is 20.
+A[3]: Tiffany had 8 bags on Monday, found 10 more the next day, and 4 more the day after that. So she found 10 + 4 = 14 bags after Monday. The answer is 14.
+A[4]: Tiffany had 3 bags on Monday and found 7 more the next day. So she had 3 + 7 = 10 bags of cans altogether. The answer is 10.
+A[5]: There are 17 red peaches and 16 green peaches. The difference in the number of red and green peaches is 17 - 16 = 1. There is 1 more red peach than green peach in the basket. The answer is 1.
+A[6]: There are 5 red peaches and 11 green peaches. The difference in the number of green and red peaches is 11 - 5 = 6. There are 6 more green peaches than red peaches in the basket. The answer is 6.
+<d>
+A[1]: If there are 10 red peaches and a total of 15 peaches in the basket, then there are 15 - 10 = 5 green peaches. The answer is 5.
+A[2]: If there are 3 red peaches and 10 more green peaches than red peaches, then there are 3 + 10 = 13 green peaches. The answer is 13.
+A[3]: There are 7 red peaches, 15 yellow peaches, and 8 green peaches in the basket. The total number of peaches is 7 + 15 + 8 = 30. The answer is 30.
+A[4]: There are 7 red peaches and 8 green peaches in the basket. The difference in the number of green and red peaches is 8 - 7 = 1. The answer is 1.
+A[5]: There are 6 yellow peaches and 14 green peaches in the basket. The difference in the number of green and yellow peaches is 14 - 6 = 8. The answer is 8.
+A[6]: There are 19 red peaches and 11 yellow peaches in the basket. The difference in the number of red and yellow peaches is 19 - 11 = 8. The answer is 8.
+<d>
+A[1]: There are 6 red peaches and 16 green peaches in the basket. The answer is 6 + 16 = 22.
+A[2]: There are 18 red peaches and 14 yellow peaches in the basket. The answer is 18 + 14 = 32.
+A[3]: There are 14 yellow peaches and 6 green peaches in the basket. The answer is 14 + 6 = 20.
+A[4]: Each basket has 7 red peaches and 3 green peaches, so there are 7 + 3 = 10 peaches in each basket.
+A[5]: Each basket has 10 red peaches and 18 green peaches, so there are 10 + 18 = 28 peaches in each basket. There are 11 baskets, so there are 11 * 28 = 308 peaches altogether.
+A[6]: Each basket has 16 red peaches, and there are 6 baskets, so there are 16 * 6 = 96 red peaches altogether.
+<d>
+A[1]: Each basket has 2 green peaches, and there are 7 baskets, so there are 2 * 7 = 14 green peaches altogether.
+A[2]: Each basket has 3 green peaches, and there are a total of 7 peaches in all baskets, so there are 7 / 3 = 2.33 baskets. Since we can't have a fraction of a basket, there are 2 baskets of peaches.
+A[3]: Each basket has 4 red peaches, so the total number of red peaches is 2 * 4 = 8. Since there are 12 peaches in total, there are 12 - 8 = 4 green peaches in each basket.
+A[4]: There are 13 red peaches in the basket, so there are 16 - 13 = 3 green peaches in the basket.
+A[5]: Each basket has 19 + 4 = 23 peaches, and there are 15 such baskets, so there are 23 * 15 = 345 peaches in the baskets altogether.
+A[6]: There are 4 red peaches and 6 green peaches in each basket, so there are a total of 4 + 6 = 10 peaches in each basket. Since there are 10 peaches distributed equally in some baskets, there is 1 basket of peaches.
+<d>
+A[1]: There are 6 green peaches and 2 red peaches in the basket. So, there are 6 - 2 = 4 more green peaches than red peaches in the basket.
+A[2]: Jerry initially had 4 action figures on the shelf. He added 8 - 4 = 4 more action figures to the shelf.
+A[3]: Jerry initially had 10 - 7 = 3 action figures on the shelf.
+A[4]: Jerry initially had 4 + 22 = 26 action figures on the shelf. After adding 6 more, he had 26 + 6 = 32 action figures in all.
+A[5]: Jerry initially had 5 action figures and 9 books on the shelf. After adding 7 more action figures, he had 5 + 7 = 12 action figures in total. There were 12 - 9 = 3 more action figures than books on his shelf.
+A[6]: Jerry initially had 2 action figures and 10 books on the shelf. After adding 4 more action figures, he had 2 + 4 = 6 action figures in total. There were 10 - 6 = 4 more books than action figures on his shelf.
+<d>
+A[1]: Jerry initially had 9 books on the shelf. He later added 10 more books. So in total, there were 9 + 10 = 19 books on his shelf. The answer is 19.
+A[2]: Jerry initially had 2 books and later added 4 more books. So there were 2 + 4 = 6 books on his shelf. He initially had 7 action figures. So there were 7 - 6 = 1 more action figure than books on his shelf. The answer is 1.
+A[3]: Jerry initially had 2 books and 5 action figures. Later he added 9 more books. So there were 2 + 9 = 11 books on his shelf. There were 5 action figures. So there were 11 - 5 = 6 more books than action figures on his shelf. The answer is 6.
+A[4]: Jerry initially had 8 action figures. He added 4 more and removed 5 old ones. So in total, there were 8 + 4 - 5 = 7 action figures on his shelf. The answer is 7.

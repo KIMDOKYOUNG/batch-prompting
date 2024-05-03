@@ -1,0 +1,149 @@
+A[1]: Joan found 70 seashells initially. After giving some to Sam, she has 27 left. So she gave away 70 - 27 = 43 seashells. The answer is 43.
+A[2]: There were 28 bales of hay initially. After Tim stacked some more, there are 54 bales. So Tim stored 54 - 28 = 26 bales in the barn. The answer is 26.
+<d>
+A[1]: Mary needs to add 8 - 2 = 6 cups of flour. The answer is 6.
+A[2]: The team played 12 games in total. They lost 4 games. So they won 12 - 4 = 8 games. The answer is 8.
+<d>
+A[1]: There are 22 walnut trees originally. After planting more, there are 55 trees. So the workers planted 55 - 22 = 33 trees today. The answer is 33.
+A[2]: Mike started with 34 peaches. After picking more, he had 86 peaches. Therefore, he picked 86 - 34 = 52 peaches. The answer is 52.
+<d>
+A[1]: There were originally 6 roses in the vase. After cutting some, there are now 16 roses. So, Mary cut 16 - 6 = 10 roses. The answer is 10.
+A[2]: Joan went to 4 football games this year and 9 games last year. So, in total, Joan went to 4 + 9 = 13 football games. The answer is 13.
+<d>
+A[1]: Tom has 9 yellow balloons and Sara has 8 yellow balloons, so they have 9 + 8 = 17 yellow balloons in total.
+A[2]: There are currently 4 walnut trees in the park. If 6 more walnut trees are planted, the park will have 4 + 6 = 10 walnut trees. The answer is 10.
+<d>
+A[1]: Sam had 9 dimes. His dad gave him 7 more dimes. So Sam has 9 + 7 = 16 dimes now. The answer is 16.
+A[2]: Alyssa now has 5 puppies after giving 7 to her friends. So she must have started with 5 + 7 = 12 puppies. The answer is 12.
+<d>
+A[1]: The restaurant served 9 pizzas during lunch and 6 during dinner, so they served 9 + 6 = 15 pizzas today. The answer is 15.
+A[2]: There were originally 2 pencils in the drawer. Tim placed 3 more pencils, so now there are 2 + 3 = 5 pencils in total. The answer is 5.
+<d>
+A[1]: Joan found 6 seashells and Jessica found 8 seashells. Together they found 6 + 8 = 14 seashells. The answer is 14.
+A[2]: Sandy grew 6 carrots and Sam grew 3 carrots. In total, they grew 6 + 3 = 9 carrots. The answer is 9.
+<d>
+A[1]: Benny picked 2 apples and Dan picked 9 apples, so in total they picked 2 + 9 = 11 apples. The answer is 11.
+A[2]: Sally found 9 seashells, Tom found 7 seashells, and Jessica found 5 seashells, so together they found 9 + 7 + 5 = 21 seashells. The answer is 21.
+<d>
+A[1]: Tim gave away 3 + 6 = 9 kittens. He now has 9 kittens. So he started with 9 + 9 = 18 kittens. The answer is 18.
+A[2]: Joan has 9, Sally has 5, and Jessica has 2 blue balloons. So they have 9 + 5 + 2 = 16 blue balloons in total. The answer is 16.
+<d>
+A[1]: Melanie had 7 dimes. Her dad gave her 8 dimes and her mother gave her 4 dimes. So she has 7 + 8 + 4 = 19 dimes now. The answer is 19.
+A[2]: The restaurant served 5 cakes during lunch, 6 during dinner today, and 3 cakes yesterday. So in total, they served 5 + 6 + 3 = 14 cakes. The answer is 14.
+<d>
+A[1]: Melanie picked 4 plums, Dan picked 9 plums, and Sally picked 3 plums. In total, they picked 4 + 9 + 3 = 16 plums. The answer is 16.
+A[2]: There are 7 dogwood trees initially. After planting 3 today and 2 tomorrow, there will be 7 + 3 + 2 = 12 dogwood trees. The answer is 12.
+<d>
+A[1]: Sara grew 4 onions, Sally grew 5 onions, and Fred grew 9 onions. They grew 4 + 5 + 9 = 18 onions in all. The answer is 18.
+A[2]: Jason has 43 blue marbles and Tom has 24 blue marbles. They have 43 + 24 = 67 blue marbles in all. The answer is 67.
+<d>
+A[1]: Sam found 18 seashells and Mary found 47 seashells. Together they found 18 + 47 = 65 seashells. The answer is 65.
+A[2]: Jason grew 23 watermelons and Nancy grew 28 watermelons. In total, they grew 23 + 28 = 51 watermelons. The answer is 51.
+<d>
+A[1]: There were originally 11 rulers in the drawer. Tim placed 14 more rulers, making it 11 + 14 = 25 rulers in total. The answer is 25.
+A[2]: Sara picked 45 pears and Sally picked 11 pears, so in total they picked 45 + 11 = 56 pears. The answer is 56.
+<d>
+A[1]: Keith has 20 books and Jason has 21 books. Together they have 20 + 21 = 41 books. The answer is 41.
+A[2]: Jason had 49 quarters and his dad gave him 25 more. So he now has 49 + 25 = 74 quarters. The answer is 74.
+<d>
+A[1]: Tom found 15 seashells and Fred found 43 seashells, so together they found 15 + 43 = 58 seashells. After cleaning, they found 58 - 29 = 29 seashells intact. The answer is 29.
+A[2]: Sara has 31 red balloons and Sandy has 24 red balloons, so together they have 31 + 24 = 55 red balloons. The answer is 55.
+<d>
+A[1]: Joan picked 37 oranges, Sara picked 10 oranges, so in total they picked 37 + 10 = 47 oranges. The answer is 47.
+A[2]: Fred went to 36 games this year, missed 35, and went to 11 games last year. So in total, he went to 36 + 11 = 47 games. The answer is 47.
+<d>
+A[1]: There were originally 33 pencils in the drawer. Joan placed 27 more pencils. So now there are 33 + 27 = 60 pencils. The answer is 60.
+A[2]: Sam originally had 24 nickels. His dad gave him 39 more nickels. So now he has 24 + 39 = 63 nickels. The answer is 63.
+<d>
+A[1]: Dan grew 42 turnips and Jessica grew 47 turnips, so they grew 42 + 47 = 89 turnips in total. The answer is 89.
+A[2]: There are currently 33 walnut trees in the park. After planting 44 more, the park will have 33 + 44 = 77 walnut trees. The answer is 77.
+<d>
+A[1]: Sara had 21 quarters. Her dad gave her 49 more quarters. So she has 21 + 49 = 70 quarters now. The answer is 70.
+A[2]: There were originally 41 pencils in the drawer. Mike placed 30 more pencils in the drawer. So there are now 41 + 30 = 71 pencils in total. The answer is 71.
+<d>
+A[1]: Joan has 10 books and Tom has 38 books, so together they have 10 + 38 = 48 books. The answer is 48.
+A[2]: Joan has 40 blue balloons and Melanie has 41 blue balloons, so together they have 40 + 41 = 81 blue balloons. The answer is 81.
+<d>
+A[1]: Fred grew 38 cantaloupes and Tim grew 44 cantaloupes. So, they grew 38 + 44 = 82 cantaloupes in total. The answer is 82.
+A[2]: Sam went to 14 football games this year and 29 games last year. Therefore, he went to 14 + 29 = 43 football games in all. The answer is 43.
+<d>
+A[1]: Mary found 18 seashells and Jessica found 41 seashells. Together they found 18 + 41 = 59 seashells. The answer is 59.
+A[2]: There are currently 39 dogwood trees in the park. The workers will plant 41 + 20 = 61 dogwood trees. So, the park will have 39 + 61 = 100 dogwood trees when the workers are finished. The answer is 100.
+<d>
+A[1]: Sandy has 10 books, Benny has 24 books, and Tim has 33 books. Together they have 10 + 24 + 33 = 67 books. The answer is 67.
+A[2]: Jason picked 46 pears, Keith picked 47 pears, and Mike picked 12 pears. In total, they picked 46 + 47 + 12 = 105 pears. The answer is 105.
+<d>
+A[1]: Keith grew 29 cantaloupes, Fred grew 16 cantaloupes, and Jason grew 20 cantaloupes. In total, they grew 29 + 16 + 20 = 65 cantaloupes. The answer is 65.
+A[2]: Melanie had 19 dimes. Her dad gave her 39 dimes and her mother gave her 25 dimes. So she has 19 + 39 + 25 = 83 dimes now. The answer is 83.
+<d>
+A[1]: Alyssa has 37 blue balloons, Sandy has 28, and Sally has 39. Adding them up, they have 37 + 28 + 39 = 104 blue balloons. The answer is 104.
+A[2]: Sally started with 27 cards. Dan gave her 41 more, making it 27 + 41 = 68 cards. Then she bought 20 more, so she has 68 + 20 = 88 cards now. The answer is 88.
+<d>
+A[1]: Jason went to 11 games this month, 17 last month, and plans to go to 16 next month. So, he will attend 11 + 17 + 16 = 44 games in all. The answer is 44.
+A[2]: There were 43 pencils in the drawer and 19 on the desk. Dan placed 16 more pencils on the desk. So, there are now 43 + 19 + 16 = 78 pencils in total. The answer is 78.
+<d>
+A[1]: Mike had 35 books originally. After buying some at the yard sale, he now has 56 books. So he bought 56 - 35 = 21 books. The answer is 21.
+A[2]: There are currently 53 maple trees in the park. After planting more, there will be 64 maple trees. Therefore, the workers planted 64 - 53 = 11 trees today. The answer is 11.
+<d>
+A[1]: Dan started with 56 seashells and now has 22, so he gave away 56 - 22 = 34 seashells. The answer is 34.
+A[2]: Sally started with 13 peaches and now has 55, so she picked up 55 - 13 = 42 peaches. The answer is 42.
+<d>
+A[1]: Benny had 67 + 33 = 100 dollars to spend. He spent 100 - 33 = 67 dollars on the baseball gear. The answer is 67.
+A[2]: Alyssa cut 14 - 3 = 11 roses from her flower garden. The answer is 11.
+<d>
+A[1]: Tom made 86 - 74 = 12 dollars washing cars. The answer is 12.
+A[2]: Jason stored 96 - 73 = 23 bales in the barn. The answer is 23.
+<d>
+A[1]: Nancy grew 6 potatoes and Sandy grew 7 potatoes. So, in total they grew 6 + 7 = 13 potatoes. The answer is 13.
+A[2]: There were originally 9 crayons in the drawer. Benny placed 3 more crayons in the drawer. So, now there are 9 + 3 = 12 crayons in total. The answer is 12.
+<d>
+A[1]: There are currently 5 oak trees in the park. If 4 more oak trees are planted, the park will have 5 + 4 = 9 oak trees. The answer is 9.
+A[2]: Tom found 7 seashells in total, but 4 were broken. So, he found 7 - 4 = 3 unbroken seashells. The answer is 3.
+<d>
+A[1]: Sally picked 7 lemons and Mary picked 9 lemons, so in total they picked 7 + 9 = 16 lemons. The answer is 16.
+A[2]: The restaurant served 6 cakes during lunch and 9 during dinner, so in total they served 6 + 9 = 15 cakes today. The answer is 15.
+<d>
+A[1]: Joan had 8 orange balloons. After losing 2, she has 8 - 2 = 6 orange balloons. The answer is 6.
+A[2]: Fred had 7 dimes. After his sister borrowed 3, he has 7 - 3 = 4 dimes. The answer is 4.
+<d>
+A[1]: Joan originally had 8 kittens. After giving 2 away, she has 8 - 2 = 6 kittens. The answer is 6.
+A[2]: There are currently 34 dogwood trees in the park. After planting 49 more, the park will have 34 + 49 = 83 dogwood trees. The answer is 83.
+<d>
+A[1]: There were 27 pencils originally. Nancy added 45 more pencils. So, there are 27 + 45 = 72 pencils now. The answer is 72.
+A[2]: Sam started with 35 seashells. He gave Joan 18 seashells. So, he now has 35 - 18 = 17 seashells. The answer is 17.
+<d>
+A[1]: Tim has 22 books and Mike has 20 books. Together, they have 22 + 20 = 42 books. The answer is 42.
+A[2]: Mike started with 87 baseball cards. Sam bought 13 of them. So Mike now has 87 - 13 = 74 baseball cards. The answer is 74.
+<d>
+A[1]: Sandy grew 51 pumpkins and Mike grew 23 pumpkins. So, they grew 51 + 23 = 74 pumpkins in total. The answer is 74.
+A[2]: Tim has 44 books and Sam has 52 books. Together, they have 44 + 52 = 96 books. The answer is 96.
+<d>
+A[1]: Dan had 64 violet marbles. After giving Mary 14 marbles, he has 64 - 14 = 50 marbles. The answer is 50.
+A[2]: There are currently 25 popular trees in the park. If 73 more popular trees are planted, the park will have 25 + 73 = 98 popular trees. The answer is 98.
+<d>
+A[1]: There were originally 54 scissors in the drawer. Keith placed 22 more scissors in the drawer. So, there are now 54 + 22 = 76 scissors in all. The answer is 76.
+A[2]: Alyssa picked 42 pears and Nancy picked 17 pears from the pear tree. In total, they picked 42 + 17 = 59 pears. The answer is 59.
+<d>
+A[1]: Sam had 98 pennies. He spent 93 pennies. So he has 98 - 93 = 5 pennies left. The answer is 5.
+A[2]: Joan had 79 seashells. She gave Mike 63 seashells. So she now has 79 - 63 = 16 seashells. The answer is 16.
+<d>
+A[1]: Sam has 110 books and Joan has 102 books. Together, they have 110 + 102 = 212 books. The answer is 212.
+A[2]: Mary picked 122 oranges and Jason picked 105 oranges. In total, they picked 122 + 105 = 227 oranges. The answer is 227.
+<d>
+A[1]: Sally had 760 quarters. After spending 418, she has 760 - 418 = 342 quarters. The answer is 342.
+A[2]: Melanie grew 139 turnips and Benny grew 113 turnips. Together, they grew 139 + 113 = 252 turnips. The answer is 252.
+<d>
+A[1]: Jason started with 676 Pokemon cards. Alyssa bought 224, so he has 676 - 224 = 452 cards now. The answer is 452.
+A[2]: The park currently has 107 walnut trees. If 104 more are planted, the park will have 107 + 104 = 211 walnut trees. The answer is 211.
+<d>
+A[1]: Fred had 709 green balloons. After giving 221 to Sandy, he has 709 - 221 = 488 green balloons. The answer is 488.
+A[2]: There were originally 115 pencils in the drawer. Sara placed 100 more pencils, making it 115 + 100 = 215 pencils in total. The answer is 215.
+<d>
+A[1]: Jason started with 3 Pokemon cards. Benny bought 2, so Jason has 3 - 2 = 1 Pokemon card left. The answer is 1.
+A[2]: Mike had 8 orange marbles. He gave Sam 4, so he has 8 - 4 = 4 orange marbles left. The answer is 4.
+<d>
+A[1]: Joan had 5 dimes. After spending 2 dimes, she has 5 - 2 = 3 dimes. The answer is 3.
+A[2]: There are 2 orchid bushes. After planting 4 more, the park will have 2 + 4 = 6 orchid bushes. The answer is 6.
+<d>
+A[1]: Sara picked 6 pears and Tim picked 5 pears, so in total they picked 6 + 5 = 11 pears. The answer is 11.
+A[2]: Sam grew 4 watermelons but the rabbits ate 3, so he has 4 - 3 = 1 watermelon left. The answer is 1.
